@@ -1,0 +1,7304 @@
+[
+  {
+    "Index": 0,
+    "Name": "Камень",
+    "Id": "stone",
+    "Icon": 0
+  },
+  {
+    "Index": 1,
+    "Name": "Гранит",
+    "Id": "granite",
+    "Icon": 1
+  },
+  {
+    "Index": 2,
+    "Name": "Полированный гранит",
+    "Id": "polished_granite",
+    "Icon": 2
+  },
+  {
+    "Index": 3,
+    "Name": "Диорит",
+    "Id": "diorite",
+    "Icon": 3
+  },
+  {
+    "Index": 4,
+    "Name": "Полированный диорит",
+    "Id": "polished_diorite",
+    "Icon": 4
+  },
+  {
+    "Index": 5,
+    "Name": "Андезит",
+    "Id": "andesite",
+    "Icon": 5
+  },
+  {
+    "Index": 6,
+    "Name": "Полированный андезит",
+    "Id": "polished_andesite",
+    "Icon": 6
+  },
+  {
+    "Index": 7,
+    "Name": "Глубинный сланец",
+    "Id": "deepslate",
+    "Icon": 7
+  },
+  {
+    "Index": 8,
+    "Name": "Колотый глубинный сланец",
+    "Id": "cobbled_deepslate",
+    "Icon": 8
+  },
+  {
+    "Index": 9,
+    "Name": "Полированный глубинный сланец",
+    "Id": "polished_deepslate",
+    "Icon": 9
+  },
+  {
+    "Index": 10,
+    "Name": "Кальцит",
+    "Id": "calcite",
+    "Icon": 10
+  },
+  {
+    "Index": 11,
+    "Name": "Туф",
+    "Id": "tuff",
+    "Icon": 11
+  },
+  {
+    "Index": 12,
+    "Name": "Натёчный камень",
+    "Id": "dripstone_block",
+    "Icon": 1096
+  },
+  {
+    "Index": 13,
+    "Name": "Дёрн",
+    "Id": "grass_block",
+    "Icon": 12
+  },
+  {
+    "Index": 14,
+    "Name": "Земля",
+    "Id": "dirt",
+    "Icon": 13
+  },
+  {
+    "Index": 15,
+    "Name": "Каменистая земля",
+    "Id": "coarse_dirt",
+    "Icon": 14
+  },
+  {
+    "Index": 16,
+    "Name": "Подзол",
+    "Id": "podzol",
+    "Icon": 15
+  },
+  {
+    "Index": 17,
+    "Name": "Корнистая земля",
+    "Id": "rooted_dirt",
+    "Icon": 16
+  },
+  {
+    "Index": 18,
+    "Name": "Багровый нилий",
+    "Id": "crimson_nylium",
+    "Icon": 17
+  },
+  {
+    "Index": 19,
+    "Name": "Искажённый нилий",
+    "Id": "warped_nylium",
+    "Icon": 18
+  },
+  {
+    "Index": 20,
+    "Name": "Булыжник",
+    "Id": "cobblestone",
+    "Icon": 19
+  },
+  {
+    "Index": 21,
+    "Name": "Дубовые доски",
+    "Id": "oak_planks",
+    "Icon": 20
+  },
+  {
+    "Index": 22,
+    "Name": "Еловые доски",
+    "Id": "spruce_planks",
+    "Icon": 21
+  },
+  {
+    "Index": 23,
+    "Name": "Берёзовые доски",
+    "Id": "birch_planks",
+    "Icon": 22
+  },
+  {
+    "Index": 24,
+    "Name": "Доски из тропического дерева",
+    "Id": "jungle_planks",
+    "Icon": 23
+  },
+  {
+    "Index": 25,
+    "Name": "Акациевые доски",
+    "Id": "acacia_planks",
+    "Icon": 24
+  },
+  {
+    "Index": 26,
+    "Name": "Доски из темного дуба",
+    "Id": "dark_oak_planks",
+    "Icon": 25
+  },
+  {
+    "Index": 27,
+    "Name": "Багровые доски",
+    "Id": "crimson_planks",
+    "Icon": 26
+  },
+  {
+    "Index": 28,
+    "Name": "Искажённые доски",
+    "Id": "warped_planks",
+    "Icon": 27
+  },
+  {
+    "Index": 29,
+    "Name": "Саженец дуба",
+    "Id": "oak_sapling",
+    "Icon": 28
+  },
+  {
+    "Index": 30,
+    "Name": "Еловый саженец",
+    "Id": "spruce_sapling",
+    "Icon": 29
+  },
+  {
+    "Index": 31,
+    "Name": "Саженец берёзы",
+    "Id": "birch_sapling",
+    "Icon": 30
+  },
+  {
+    "Index": 32,
+    "Name": "Саженец тропического дерева",
+    "Id": "jungle_sapling",
+    "Icon": 31
+  },
+  {
+    "Index": 33,
+    "Name": "Саженец акации",
+    "Id": "acacia_sapling",
+    "Icon": 32
+  },
+  {
+    "Index": 34,
+    "Name": "Саженец темного дуба",
+    "Id": "dark_oak_sapling",
+    "Icon": 33
+  },
+  {
+    "Index": 35,
+    "Name": "Бедрок",
+    "Id": "bedrock",
+    "Icon": 34
+  },
+  {
+    "Index": 36,
+    "Name": "Песок",
+    "Id": "sand",
+    "Icon": 35
+  },
+  {
+    "Index": 37,
+    "Name": "Красный песок",
+    "Id": "red_sand",
+    "Icon": 36
+  },
+  {
+    "Index": 38,
+    "Name": "Гравий",
+    "Id": "gravel",
+    "Icon": 37
+  },
+  {
+    "Index": 39,
+    "Name": "Угольная руда",
+    "Id": "coal_ore",
+    "Icon": 44
+  },
+  {
+    "Index": 40,
+    "Name": "Угленосный глубинный сланец",
+    "Id": "deepslate_coal_ore",
+    "Icon": 45
+  },
+  {
+    "Index": 41,
+    "Name": "Железная руда",
+    "Id": "iron_ore",
+    "Icon": 40
+  },
+  {
+    "Index": 42,
+    "Name": "Глубинносланцевая железная руда",
+    "Id": "deepslate_iron_ore",
+    "Icon": 41
+  },
+  {
+    "Index": 43,
+    "Name": "Медная руда",
+    "Id": "copper_ore",
+    "Icon": 42
+  },
+  {
+    "Index": 44,
+    "Name": "Меденосный глубинный сланец",
+    "Id": "deepslate_copper_ore",
+    "Icon": 43
+  },
+  {
+    "Index": 45,
+    "Name": "Золотая руда",
+    "Id": "gold_ore",
+    "Icon": 38
+  },
+  {
+    "Index": 46,
+    "Name": "Золотоносный глубинный сланец",
+    "Id": "deepslate_gold_ore",
+    "Icon": 39
+  },
+  {
+    "Index": 47,
+    "Name": "Редстоуновая руда",
+    "Id": "redstone_ore",
+    "Icon": 206
+  },
+  {
+    "Index": 48,
+    "Name": "Редстоуноносный глубинный сланец",
+    "Id": "deepslate_redstone_ore",
+    "Icon": 207
+  },
+  {
+    "Index": 49,
+    "Name": "Изумрудная руда",
+    "Id": "emerald_ore",
+    "Icon": 272
+  },
+  {
+    "Index": 50,
+    "Name": "Изумрудоносный глубинный сланец",
+    "Id": "deepslate_emerald_ore",
+    "Icon": 273
+  },
+  {
+    "Index": 51,
+    "Name": "Лазуритовая руда",
+    "Id": "lapis_ore",
+    "Icon": 91
+  },
+  {
+    "Index": 52,
+    "Name": "Лазуритоносный глубинный сланец",
+    "Id": "deepslate_lapis_ore",
+    "Icon": 92
+  },
+  {
+    "Index": 53,
+    "Name": "Алмазная руда",
+    "Id": "diamond_ore",
+    "Icon": 197
+  },
+  {
+    "Index": 54,
+    "Name": "Алмазоносный глубинный сланец",
+    "Id": "deepslate_diamond_ore",
+    "Icon": 198
+  },
+  {
+    "Index": 55,
+    "Name": "Незерская золотая руда",
+    "Id": "nether_gold_ore",
+    "Icon": 46
+  },
+  {
+    "Index": 56,
+    "Name": "Незер-кварцевая руда",
+    "Id": "nether_quartz_ore",
+    "Icon": 306
+  },
+  {
+    "Index": 57,
+    "Name": "Древние обломки",
+    "Id": "ancient_debris",
+    "Icon": 1022
+  },
+  {
+    "Index": 58,
+    "Name": "Угольный блок",
+    "Id": "coal_block",
+    "Icon": 347
+  },
+  {
+    "Index": 59,
+    "Name": "Блок рудного железа",
+    "Id": "raw_iron_block",
+    "Icon": 993
+  },
+  {
+    "Index": 60,
+    "Name": "Блок рудной меди",
+    "Id": "raw_copper_block",
+    "Icon": 994
+  },
+  {
+    "Index": 61,
+    "Name": "Блок рудного золота",
+    "Id": "raw_gold_block",
+    "Icon": 995
+  },
+  {
+    "Index": 62,
+    "Name": "Аметистовый блок",
+    "Id": "amethyst_block",
+    "Icon": 1055
+  },
+  {
+    "Index": 63,
+    "Name": "Цветущий аметист",
+    "Id": "budding_amethyst",
+    "Icon": 1056
+  },
+  {
+    "Index": 64,
+    "Name": "Железный блок",
+    "Id": "iron_block",
+    "Icon": 155
+  },
+  {
+    "Index": 65,
+    "Name": "Медный блок",
+    "Id": "copper_block",
+    "Icon": 1062
+  },
+  {
+    "Index": 66,
+    "Name": "Золотой блок",
+    "Id": "gold_block",
+    "Icon": 154
+  },
+  {
+    "Index": 67,
+    "Name": "Алмазный блок",
+    "Id": "diamond_block",
+    "Icon": 199
+  },
+  {
+    "Index": 68,
+    "Name": "Незеритовый блок",
+    "Id": "netherite_block",
+    "Icon": 1021
+  },
+  {
+    "Index": 69,
+    "Name": "Потемневший медный блок",
+    "Id": "exposed_copper",
+    "Icon": 1063
+  },
+  {
+    "Index": 70,
+    "Name": "Состаренный медный блок",
+    "Id": "weathered_copper_block",
+    "Icon": 1064
+  },
+  {
+    "Index": 71,
+    "Name": "Окисленный медный блок",
+    "Id": "oxidized_copper",
+    "Icon": 1065
+  },
+  {
+    "Index": 72,
+    "Name": "Резной медный блок",
+    "Id": "cut_copper",
+    "Icon": 1066
+  },
+  {
+    "Index": 73,
+    "Name": "Потемневший резной медный блок",
+    "Id": "lightly_weathered_cut_copper",
+    "Icon": 1067
+  },
+  {
+    "Index": 74,
+    "Name": "Состаренный резной медный блок",
+    "Id": "weathered_cut_copper",
+    "Icon": 1068
+  },
+  {
+    "Index": 75,
+    "Name": "Окисленный резной медный блок",
+    "Id": "oxidized_cut_copper",
+    "Icon": 1069
+  },
+  {
+    "Index": 76,
+    "Name": "Резные медные ступеньки",
+    "Id": "cut_copper_stairs",
+    "Icon": 1070
+  },
+  {
+    "Index": 77,
+    "Name": "Потемневшие резные медные ступеньки",
+    "Id": "exposed_cut_copper_stairs",
+    "Icon": 1071
+  },
+  {
+    "Index": 78,
+    "Name": "Состаренные резные медные ступеньки",
+    "Id": "weathered_cut_copper_stairs",
+    "Icon": 1072
+  },
+  {
+    "Index": 79,
+    "Name": "Окисленные резные медные ступеньки",
+    "Id": "oxidized_cut_copper_stairs",
+    "Icon": 1073
+  },
+  {
+    "Index": 80,
+    "Name": "Резная медная плита",
+    "Id": "cut_copper_slab",
+    "Icon": 1074
+  },
+  {
+    "Index": 81,
+    "Name": "Потемневшая резная медная плита",
+    "Id": "exposed_cut_copper_slab",
+    "Icon": 1075
+  },
+  {
+    "Index": 82,
+    "Name": "Состаренная резная медная плита",
+    "Id": "weathered_cut_copper_slab",
+    "Icon": 1076
+  },
+  {
+    "Index": 83,
+    "Name": "Окисленная резная медная плита",
+    "Id": "oxidized_cut_copper_slab",
+    "Icon": 1077
+  },
+  {
+    "Index": 84,
+    "Name": "Вощёный медный блок",
+    "Id": "waxed_copper_block",
+    "Icon": 1078
+  },
+  {
+    "Index": 85,
+    "Name": "Вощёный потемневший медный блок",
+    "Id": "waxed_exposed_copper",
+    "Icon": 1079
+  },
+  {
+    "Index": 86,
+    "Name": "Вощёный состаренный медный блок",
+    "Id": "waxed_weathered_copper",
+    "Icon": 1080
+  },
+  {
+    "Index": 87,
+    "Name": "Вощёный окисленный медный блок",
+    "Id": "waxed_oxidized_copper",
+    "Icon": 1081
+  },
+  {
+    "Index": 88,
+    "Name": "Вощёный резной медный блок",
+    "Id": "waxed_cut_copper",
+    "Icon": 1082
+  },
+  {
+    "Index": 89,
+    "Name": "Вощёный потемневший резной медный блок",
+    "Id": "waxed_exposed_cut_copper",
+    "Icon": 1083
+  },
+  {
+    "Index": 90,
+    "Name": "Вощёный состаренный резной медный блок",
+    "Id": "waxed_weathered_cut_copper",
+    "Icon": 1084
+  },
+  {
+    "Index": 91,
+    "Name": "Вощёный окисленный резной медный блок",
+    "Id": "waxed_oxidized_cut_copper",
+    "Icon": 1085
+  },
+  {
+    "Index": 92,
+    "Name": "Вощёные резные медные ступеньки",
+    "Id": "waxed_cut_copper_stairs",
+    "Icon": 1086
+  },
+  {
+    "Index": 93,
+    "Name": "Вощёные потемневшие резные медные ступеньки",
+    "Id": "waxed_exposed_cut_copper_stairs",
+    "Icon": 1087
+  },
+  {
+    "Index": 94,
+    "Name": "Вощёные состаренные резные медные ступеньки",
+    "Id": "waxed_weathered_cut_copper_stairs",
+    "Icon": 1088
+  },
+  {
+    "Index": 95,
+    "Name": "Вощёные окисленные резные медные ступеньки",
+    "Id": "waxed_oxidized_cut_copper_stairs",
+    "Icon": 1089
+  },
+  {
+    "Index": 96,
+    "Name": "Вощёная резная медная плита",
+    "Id": "waxed_cut_copper_slab",
+    "Icon": 1090
+  },
+  {
+    "Index": 97,
+    "Name": "Вощёная потемневшая резная медная плита",
+    "Id": "waxed_exposed_cut_copper_slab",
+    "Icon": 1091
+  },
+  {
+    "Index": 98,
+    "Name": "Вощёная состаренная резная медная плита",
+    "Id": "waxed_weathered_cut_copper_slab",
+    "Icon": 1092
+  },
+  {
+    "Index": 99,
+    "Name": "Вощёная окисленная резная медная плита",
+    "Id": "waxed_oxidized_cut_copper_slab",
+    "Icon": 1093
+  },
+  {
+    "Index": 100,
+    "Name": "Дубовое бревно",
+    "Id": "oak_log",
+    "Icon": 47
+  },
+  {
+    "Index": 101,
+    "Name": "Еловое бревно",
+    "Id": "spruce_log",
+    "Icon": 48
+  },
+  {
+    "Index": 102,
+    "Name": "Берёзовое бревно",
+    "Id": "birch_log",
+    "Icon": 49
+  },
+  {
+    "Index": 103,
+    "Name": "Бревно тропического дерева",
+    "Id": "jungle_log",
+    "Icon": 50
+  },
+  {
+    "Index": 104,
+    "Name": "Акациевое бревно",
+    "Id": "acacia_log",
+    "Icon": 51
+  },
+  {
+    "Index": 105,
+    "Name": "Бревно тёмного дуба",
+    "Id": "dark_oak_log",
+    "Icon": 52
+  },
+  {
+    "Index": 106,
+    "Name": "Багровый стебель",
+    "Id": "crimson_stem",
+    "Icon": 53
+  },
+  {
+    "Index": 107,
+    "Name": "Искажённый стебель",
+    "Id": "warped_stem",
+    "Icon": 54
+  },
+  {
+    "Index": 108,
+    "Name": "Обтёсанное дубовое бревно",
+    "Id": "stripped_oak_log",
+    "Icon": 55
+  },
+  {
+    "Index": 109,
+    "Name": "Обтёсанное еловое бревно",
+    "Id": "stripped_spruce_log",
+    "Icon": 56
+  },
+  {
+    "Index": 110,
+    "Name": "Обтёсанное берёзовое бревно",
+    "Id": "stripped_birch_log",
+    "Icon": 57
+  },
+  {
+    "Index": 111,
+    "Name": "Обтёсанное бревно тропического дерева",
+    "Id": "stripped_jungle_log",
+    "Icon": 58
+  },
+  {
+    "Index": 112,
+    "Name": "Обтёсанное акациевое бревно",
+    "Id": "stripped_acacia_log",
+    "Icon": 59
+  },
+  {
+    "Index": 113,
+    "Name": "Обтёсанное бревно тёмного дуба",
+    "Id": "stripped_dark_oak_log",
+    "Icon": 60
+  },
+  {
+    "Index": 114,
+    "Name": "Очищенный багровый стебель",
+    "Id": "stripped_crimson_stem",
+    "Icon": 61
+  },
+  {
+    "Index": 115,
+    "Name": "Очищенный искажённый стебель",
+    "Id": "stripped_warped_stem",
+    "Icon": 62
+  },
+  {
+    "Index": 116,
+    "Name": "Обтёсанная дубовая древесина",
+    "Id": "stripped_oak_wood",
+    "Icon": 63
+  },
+  {
+    "Index": 117,
+    "Name": "Обтёсанная еловая древесина",
+    "Id": "stripped_spruce_wood",
+    "Icon": 64
+  },
+  {
+    "Index": 118,
+    "Name": "Обтёсанная берёзовая древесина",
+    "Id": "stripped_birch_wood",
+    "Icon": 65
+  },
+  {
+    "Index": 119,
+    "Name": "Обтёсанная тропическая древесина",
+    "Id": "stripped_jungle_wood",
+    "Icon": 66
+  },
+  {
+    "Index": 120,
+    "Name": "Обтёсанная акациевая древесина",
+    "Id": "stripped_acacia_wood",
+    "Icon": 67
+  },
+  {
+    "Index": 121,
+    "Name": "Обтёсанная древесина тёмного дуба",
+    "Id": "stripped_dark_oak_wood",
+    "Icon": 68
+  },
+  {
+    "Index": 122,
+    "Name": "Очищенные багровые гифы",
+    "Id": "stripped_crimson_hyphae",
+    "Icon": 69
+  },
+  {
+    "Index": 123,
+    "Name": "Очищенные искажённые гифы",
+    "Id": "stripped_warped_hyphae",
+    "Icon": 70
+  },
+  {
+    "Index": 124,
+    "Name": "Дуб",
+    "Id": "oak_wood",
+    "Icon": 71
+  },
+  {
+    "Index": 125,
+    "Name": "Ель",
+    "Id": "spruce_wood",
+    "Icon": 72
+  },
+  {
+    "Index": 126,
+    "Name": "Берёза",
+    "Id": "birch_wood",
+    "Icon": 73
+  },
+  {
+    "Index": 127,
+    "Name": "Тропическое дерево",
+    "Id": "jungle_wood",
+    "Icon": 74
+  },
+  {
+    "Index": 128,
+    "Name": "Акация",
+    "Id": "acacia_wood",
+    "Icon": 75
+  },
+  {
+    "Index": 129,
+    "Name": "Тёмный дуб",
+    "Id": "dark_oak_wood",
+    "Icon": 76
+  },
+  {
+    "Index": 130,
+    "Name": "Багровые гифы",
+    "Id": "crimson_hyphae",
+    "Icon": 77
+  },
+  {
+    "Index": 131,
+    "Name": "Искажённые гифы",
+    "Id": "warped_hyphae",
+    "Icon": 78
+  },
+  {
+    "Index": 132,
+    "Name": "Дубовые листья",
+    "Id": "oak_leaves",
+    "Icon": 79
+  },
+  {
+    "Index": 133,
+    "Name": "Хвоя",
+    "Id": "spruce_leaves",
+    "Icon": 80
+  },
+  {
+    "Index": 134,
+    "Name": "Берёзовые листья",
+    "Id": "birch_leaves",
+    "Icon": 81
+  },
+  {
+    "Index": 135,
+    "Name": "Листья тропического дерева",
+    "Id": "jungle_leaves",
+    "Icon": 82
+  },
+  {
+    "Index": 136,
+    "Name": "Листья акации",
+    "Id": "acacia_leaves",
+    "Icon": 83
+  },
+  {
+    "Index": 137,
+    "Name": "Листья тёмного дуба",
+    "Id": "dark_oak_leaves",
+    "Icon": 84
+  },
+  {
+    "Index": 138,
+    "Name": "Листья азалии",
+    "Id": "azalea_leaves",
+    "Icon": 85
+  },
+  {
+    "Index": 139,
+    "Name": "Листья цветучей азалии",
+    "Id": "azalea_leaves_flowers",
+    "Icon": 86
+  },
+  {
+    "Index": 140,
+    "Name": "Губка",
+    "Id": "sponge",
+    "Icon": 87
+  },
+  {
+    "Index": 141,
+    "Name": "Мокрая губка",
+    "Id": "wet_sponge",
+    "Icon": 88
+  },
+  {
+    "Index": 142,
+    "Name": "Стекло",
+    "Id": "glass",
+    "Icon": 89
+  },
+  {
+    "Index": 143,
+    "Name": "Тонированное стекло",
+    "Id": "tinted_glass",
+    "Icon": 90
+  },
+  {
+    "Index": 144,
+    "Name": "Лазуритовый блок",
+    "Id": "lapis_block",
+    "Icon": 93
+  },
+  {
+    "Index": 145,
+    "Name": "Песчаник",
+    "Id": "sandstone",
+    "Icon": 94
+  },
+  {
+    "Index": 146,
+    "Name": "Резной песчаник",
+    "Id": "chiseled_sandstone",
+    "Icon": 95
+  },
+  {
+    "Index": 147,
+    "Name": "Пиленый песчаник",
+    "Id": "cut_sandstone",
+    "Icon": 96
+  },
+  {
+    "Index": 148,
+    "Name": "Паутина",
+    "Id": "cobweb",
+    "Icon": 99
+  },
+  {
+    "Index": 149,
+    "Name": "Трава",
+    "Id": "grass",
+    "Icon": 100
+  },
+  {
+    "Index": 150,
+    "Name": "Папоротник",
+    "Id": "fern",
+    "Icon": 101
+  },
+  {
+    "Index": 151,
+    "Name": "Азалия",
+    "Id": "azalea",
+    "Icon": 102
+  },
+  {
+    "Index": 152,
+    "Name": "Цветучая азалия",
+    "Id": "flowering_azalea",
+    "Icon": 103
+  },
+  {
+    "Index": 153,
+    "Name": "Мёртвый куст",
+    "Id": "dead_bush",
+    "Icon": 104
+  },
+  {
+    "Index": 154,
+    "Name": "Морская трава",
+    "Id": "seagrass",
+    "Icon": 105
+  },
+  {
+    "Index": 155,
+    "Name": "Морской огурец",
+    "Id": "sea_pickle",
+    "Icon": 106
+  },
+  {
+    "Index": 156,
+    "Name": "Белая шерсть",
+    "Id": "white_wool",
+    "Icon": 107
+  },
+  {
+    "Index": 157,
+    "Name": "Оранжевая шерсть",
+    "Id": "orange_wool",
+    "Icon": 108
+  },
+  {
+    "Index": 158,
+    "Name": "Пурпурная шерсть",
+    "Id": "magenta_wool",
+    "Icon": 109
+  },
+  {
+    "Index": 159,
+    "Name": "Голубая шерсть",
+    "Id": "light_blue_wool",
+    "Icon": 110
+  },
+  {
+    "Index": 160,
+    "Name": "Желтая шерсть",
+    "Id": "yellow_wool",
+    "Icon": 111
+  },
+  {
+    "Index": 161,
+    "Name": "Лаймовая шерсть",
+    "Id": "lime_wool",
+    "Icon": 112
+  },
+  {
+    "Index": 162,
+    "Name": "Розовая шерсть",
+    "Id": "pink_wool",
+    "Icon": 113
+  },
+  {
+    "Index": 163,
+    "Name": "Серая шерсть",
+    "Id": "gray_wool",
+    "Icon": 114
+  },
+  {
+    "Index": 164,
+    "Name": "Светло-серая шерсть",
+    "Id": "light_gray_wool",
+    "Icon": 115
+  },
+  {
+    "Index": 165,
+    "Name": "Бирюзовая шерсть",
+    "Id": "cyan_wool",
+    "Icon": 116
+  },
+  {
+    "Index": 166,
+    "Name": "Фиолетовая шерсть",
+    "Id": "purple_wool",
+    "Icon": 117
+  },
+  {
+    "Index": 167,
+    "Name": "Синяя шерсть",
+    "Id": "blue_wool",
+    "Icon": 118
+  },
+  {
+    "Index": 168,
+    "Name": "Коричневая шерсть",
+    "Id": "brown_wool",
+    "Icon": 119
+  },
+  {
+    "Index": 169,
+    "Name": "Зеленая шерсть",
+    "Id": "green_wool",
+    "Icon": 120
+  },
+  {
+    "Index": 170,
+    "Name": "Красная шерсть",
+    "Id": "red_wool",
+    "Icon": 121
+  },
+  {
+    "Index": 171,
+    "Name": "Черная шерсть",
+    "Id": "black_wool",
+    "Icon": 122
+  },
+  {
+    "Index": 172,
+    "Name": "Одуванчик",
+    "Id": "dandelion",
+    "Icon": 123
+  },
+  {
+    "Index": 173,
+    "Name": "Мак",
+    "Id": "poppy",
+    "Icon": 124
+  },
+  {
+    "Index": 174,
+    "Name": "Синяя орхидея",
+    "Id": "blue_orchid",
+    "Icon": 125
+  },
+  {
+    "Index": 175,
+    "Name": "Лук-батун",
+    "Id": "allium",
+    "Icon": 126
+  },
+  {
+    "Index": 176,
+    "Name": "Хаустония серая",
+    "Id": "azure_bluet",
+    "Icon": 127
+  },
+  {
+    "Index": 177,
+    "Name": "Красный тюльпан",
+    "Id": "red_tulip",
+    "Icon": 128
+  },
+  {
+    "Index": 178,
+    "Name": "Оранжевый тюльпан",
+    "Id": "orange_tulip",
+    "Icon": 129
+  },
+  {
+    "Index": 179,
+    "Name": "Белый тюльпан",
+    "Id": "white_tulip",
+    "Icon": 130
+  },
+  {
+    "Index": 180,
+    "Name": "Розовый тюльпан",
+    "Id": "pink_tulip",
+    "Icon": 131
+  },
+  {
+    "Index": 181,
+    "Name": "Ромашка",
+    "Id": "oxeye_daisy",
+    "Icon": 132
+  },
+  {
+    "Index": 182,
+    "Name": "Синий василёк",
+    "Id": "cornflower",
+    "Icon": 133
+  },
+  {
+    "Index": 183,
+    "Name": "Спороцвет",
+    "Id": "spore_blossom",
+    "Icon": 134
+  },
+  {
+    "Index": 184,
+    "Name": "Ландыш",
+    "Id": "lily_of_the_valley",
+    "Icon": 135
+  },
+  {
+    "Index": 185,
+    "Name": "Роза визера",
+    "Id": "wither_rose",
+    "Icon": 136
+  },
+  {
+    "Index": 186,
+    "Name": "Коричневый гриб",
+    "Id": "brown_mushroom",
+    "Icon": 137
+  },
+  {
+    "Index": 187,
+    "Name": "Красный гриб",
+    "Id": "red_mushroom",
+    "Icon": 138
+  },
+  {
+    "Index": 188,
+    "Name": "Багровый гриб",
+    "Id": "crimson_fungus",
+    "Icon": 139
+  },
+  {
+    "Index": 189,
+    "Name": "Искажённый гриб",
+    "Id": "warped_fungus",
+    "Icon": 140
+  },
+  {
+    "Index": 190,
+    "Name": "Багровые корни",
+    "Id": "crimson_roots",
+    "Icon": 141
+  },
+  {
+    "Index": 191,
+    "Name": "Искажённые корни",
+    "Id": "warped_roots",
+    "Icon": 142
+  },
+  {
+    "Index": 192,
+    "Name": "Незерские ростки",
+    "Id": "nether_sprouts",
+    "Icon": 143
+  },
+  {
+    "Index": 193,
+    "Name": "Плакучая лоза",
+    "Id": "weeping_vines",
+    "Icon": 144
+  },
+  {
+    "Index": 194,
+    "Name": "Вьющаяся лоза",
+    "Id": "twisting_vines",
+    "Icon": 145
+  },
+  {
+    "Index": 195,
+    "Name": "Сахарный тростник",
+    "Id": "sugar_cane",
+    "Icon": 146
+  },
+  {
+    "Index": 196,
+    "Name": "Ламинария",
+    "Id": "kelp",
+    "Icon": 147
+  },
+  {
+    "Index": 197,
+    "Name": "Моховой ковёр",
+    "Id": "moss_carpet",
+    "Icon": 148
+  },
+  {
+    "Index": 198,
+    "Name": "Блок мха",
+    "Id": "moss_block",
+    "Icon": 149
+  },
+  {
+    "Index": 199,
+    "Name": "Свисающие корни",
+    "Id": "hanging_roots",
+    "Icon": 150
+  },
+  {
+    "Index": 200,
+    "Name": "Большой каплелист",
+    "Id": "big_dripleaf",
+    "Icon": 151
+  },
+  {
+    "Index": 201,
+    "Name": "Маленький каплелист",
+    "Id": "small_dripleaf",
+    "Icon": 152
+  },
+  {
+    "Index": 202,
+    "Name": "Бамбук",
+    "Id": "bamboo",
+    "Icon": 153
+  },
+  {
+    "Index": 203,
+    "Name": "Дубовая плита",
+    "Id": "oak_slab",
+    "Icon": 156
+  },
+  {
+    "Index": 204,
+    "Name": "Еловая плита",
+    "Id": "spruce_slab",
+    "Icon": 157
+  },
+  {
+    "Index": 205,
+    "Name": "Берёзовая плита",
+    "Id": "birch_slab",
+    "Icon": 158
+  },
+  {
+    "Index": 206,
+    "Name": "Плита из тропического дерева",
+    "Id": "jungle_slab",
+    "Icon": 159
+  },
+  {
+    "Index": 207,
+    "Name": "Акациевая плита",
+    "Id": "acacia_slab",
+    "Icon": 160
+  },
+  {
+    "Index": 208,
+    "Name": "Плита из тёмного дуба",
+    "Id": "dark_oak_slab",
+    "Icon": 161
+  },
+  {
+    "Index": 209,
+    "Name": "Багровая плита",
+    "Id": "crimson_slab",
+    "Icon": 162
+  },
+  {
+    "Index": 210,
+    "Name": "Искажённая плита",
+    "Id": "warped_slab",
+    "Icon": 163
+  },
+  {
+    "Index": 211,
+    "Name": "Каменная плита",
+    "Id": "stone_slab",
+    "Icon": 164
+  },
+  {
+    "Index": 212,
+    "Name": "Плита из гладкого камня",
+    "Id": "smooth_stone_slab",
+    "Icon": 165
+  },
+  {
+    "Index": 213,
+    "Name": "Песчаниковая плита",
+    "Id": "sandstone_slab",
+    "Icon": 166
+  },
+  {
+    "Index": 214,
+    "Name": "Плита из пиленого песчаника",
+    "Id": "cut_sandstone_slab",
+    "Icon": 167
+  },
+  {
+    "Index": 215,
+    "Name": "Окаменевшая дубовая плита",
+    "Id": "petrified_oak_slab",
+    "Icon": 168
+  },
+  {
+    "Index": 216,
+    "Name": "Булыжная плита",
+    "Id": "cobblestone_slab",
+    "Icon": 169
+  },
+  {
+    "Index": 217,
+    "Name": "Кирпичная плита",
+    "Id": "brick_slab",
+    "Icon": 170
+  },
+  {
+    "Index": 218,
+    "Name": "Плита из каменного кирпича",
+    "Id": "stone_brick_slab",
+    "Icon": 171
+  },
+  {
+    "Index": 219,
+    "Name": "Незерская плита",
+    "Id": "nether_brick_slab",
+    "Icon": 172
+  },
+  {
+    "Index": 220,
+    "Name": "Кварцевая плита",
+    "Id": "quartz_slab",
+    "Icon": 173
+  },
+  {
+    "Index": 221,
+    "Name": "Плита из красного песчаника",
+    "Id": "red_sandstone_slab",
+    "Icon": 174
+  },
+  {
+    "Index": 222,
+    "Name": "Плита из пиленого красного песчаника",
+    "Id": "cut_red_sandstone_slab",
+    "Icon": 175
+  },
+  {
+    "Index": 223,
+    "Name": "Пурпуровая плита",
+    "Id": "purpur_slab",
+    "Icon": 176
+  },
+  {
+    "Index": 224,
+    "Name": "Призмариновая плита",
+    "Id": "prismarine_slab",
+    "Icon": 177
+  },
+  {
+    "Index": 225,
+    "Name": "Плита из призмаринового кирпича",
+    "Id": "prismarine_brick_slab",
+    "Icon": 178
+  },
+  {
+    "Index": 226,
+    "Name": "Плита из тёмного призмарина",
+    "Id": "dark_prismarine_slab",
+    "Icon": 179
+  },
+  {
+    "Index": 227,
+    "Name": "Гладкий кварц",
+    "Id": "smooth_quartz",
+    "Icon": 180
+  },
+  {
+    "Index": 228,
+    "Name": "Гладкий красный песчаник",
+    "Id": "smooth_red_sandstone",
+    "Icon": 181
+  },
+  {
+    "Index": 229,
+    "Name": "Гладкий песчаник",
+    "Id": "smooth_sandstone",
+    "Icon": 182
+  },
+  {
+    "Index": 230,
+    "Name": "Гладкий камень",
+    "Id": "smooth_stone",
+    "Icon": 183
+  },
+  {
+    "Index": 231,
+    "Name": "Кирпичи",
+    "Id": "bricks",
+    "Icon": 184
+  },
+  {
+    "Index": 232,
+    "Name": "Книжная полка",
+    "Id": "bookshelf",
+    "Icon": 185
+  },
+  {
+    "Index": 233,
+    "Name": "Замшелый булыжник",
+    "Id": "mossy_cobblestone",
+    "Icon": 186
+  },
+  {
+    "Index": 234,
+    "Name": "Обсидиан",
+    "Id": "obsidian",
+    "Icon": 187
+  },
+  {
+    "Index": 235,
+    "Name": "Факел",
+    "Id": "torch",
+    "Icon": 188
+  },
+  {
+    "Index": 236,
+    "Name": "Стержень Энда",
+    "Id": "end_rod",
+    "Icon": 189
+  },
+  {
+    "Index": 237,
+    "Name": "Хорус",
+    "Id": "chorus_plant",
+    "Icon": 190
+  },
+  {
+    "Index": 238,
+    "Name": "Цветок хоруса",
+    "Id": "chorus_flower",
+    "Icon": 191
+  },
+  {
+    "Index": 239,
+    "Name": "Пурпур",
+    "Id": "purpur_block",
+    "Icon": 192
+  },
+  {
+    "Index": 240,
+    "Name": "Пурпуровый пилон",
+    "Id": "purpur_pillar",
+    "Icon": 193
+  },
+  {
+    "Index": 241,
+    "Name": "Пурпуровые ступеньки",
+    "Id": "purpur_stairs",
+    "Icon": 194
+  },
+  {
+    "Index": 242,
+    "Name": "Дубовые ступеньки",
+    "Id": "oak_stairs",
+    "Icon": 195
+  },
+  {
+    "Index": 243,
+    "Name": "Сундук",
+    "Id": "chest",
+    "Icon": 196
+  },
+  {
+    "Index": 244,
+    "Name": "Верстак",
+    "Id": "crafting_table",
+    "Icon": 200
+  },
+  {
+    "Index": 245,
+    "Name": "Пашня",
+    "Id": "farmland",
+    "Icon": 201
+  },
+  {
+    "Index": 246,
+    "Name": "Печь",
+    "Id": "furnace",
+    "Icon": 202
+  },
+  {
+    "Index": 247,
+    "Name": "Лестница",
+    "Id": "ladder",
+    "Icon": 203
+  },
+  {
+    "Index": 248,
+    "Name": "Булыжные ступеньки",
+    "Id": "cobblestone_stairs",
+    "Icon": 205
+  },
+  {
+    "Index": 249,
+    "Name": "Снег",
+    "Id": "snow",
+    "Icon": 208
+  },
+  {
+    "Index": 250,
+    "Name": "Лёд",
+    "Id": "ice",
+    "Icon": 209
+  },
+  {
+    "Index": 251,
+    "Name": "Блок снега",
+    "Id": "snow_block",
+    "Icon": 210
+  },
+  {
+    "Index": 252,
+    "Name": "Кактус",
+    "Id": "cactus",
+    "Icon": 211
+  },
+  {
+    "Index": 253,
+    "Name": "Глина (Блок)",
+    "Id": "clay",
+    "Icon": 212
+  },
+  {
+    "Index": 254,
+    "Name": "Проигрыватель",
+    "Id": "jukebox",
+    "Icon": 213
+  },
+  {
+    "Index": 255,
+    "Name": "Дубовый забор",
+    "Id": "oak_fence",
+    "Icon": 214
+  },
+  {
+    "Index": 256,
+    "Name": "Еловый забор",
+    "Id": "spruce_fence",
+    "Icon": 215
+  },
+  {
+    "Index": 257,
+    "Name": "Берёзовый забор",
+    "Id": "birch_fence",
+    "Icon": 216
+  },
+  {
+    "Index": 258,
+    "Name": "Забор из тропического дерева",
+    "Id": "jungle_fence",
+    "Icon": 217
+  },
+  {
+    "Index": 259,
+    "Name": "Акациевый забор",
+    "Id": "acacia_fence",
+    "Icon": 218
+  },
+  {
+    "Index": 260,
+    "Name": "Забор из тёмного дуба",
+    "Id": "dark_oak_fence",
+    "Icon": 219
+  },
+  {
+    "Index": 261,
+    "Name": "Багровый забор",
+    "Id": "crimson_fence",
+    "Icon": 220
+  },
+  {
+    "Index": 262,
+    "Name": "Искажённый забор",
+    "Id": "warped_fence",
+    "Icon": 221
+  },
+  {
+    "Index": 263,
+    "Name": "Тыква",
+    "Id": "pumpkin",
+    "Icon": 222
+  },
+  {
+    "Index": 264,
+    "Name": "Вырезанная тыква",
+    "Id": "carved_pumpkin",
+    "Icon": 223
+  },
+  {
+    "Index": 265,
+    "Name": "Светильник Джека",
+    "Id": "jack_o_lantern",
+    "Icon": 224
+  },
+  {
+    "Index": 266,
+    "Name": "Незерак",
+    "Id": "netherrack",
+    "Icon": 225
+  },
+  {
+    "Index": 267,
+    "Name": "Песок душ",
+    "Id": "soul_sand",
+    "Icon": 226
+  },
+  {
+    "Index": 268,
+    "Name": "Почва душ",
+    "Id": "soul_soil",
+    "Icon": 227
+  },
+  {
+    "Index": 269,
+    "Name": "Базальт",
+    "Id": "basalt",
+    "Icon": 228
+  },
+  {
+    "Index": 270,
+    "Name": "Полированный базальт",
+    "Id": "polished_basalt",
+    "Icon": 229
+  },
+  {
+    "Index": 271,
+    "Name": "Гладкий базальт",
+    "Id": "smooth_basalt",
+    "Icon": 230
+  },
+  {
+    "Index": 272,
+    "Name": "Факел душ",
+    "Id": "soul_torch",
+    "Icon": 231
+  },
+  {
+    "Index": 273,
+    "Name": "Светокамень",
+    "Id": "glowstone",
+    "Icon": 232
+  },
+  {
+    "Index": 274,
+    "Name": "Заражённый камень",
+    "Id": "infested_stone",
+    "Icon": 233
+  },
+  {
+    "Index": 275,
+    "Name": "Заражённый булыжник",
+    "Id": "infested_cobblestone",
+    "Icon": 234
+  },
+  {
+    "Index": 276,
+    "Name": "Заражённые каменные кирпичи",
+    "Id": "infested_stone_bricks",
+    "Icon": 235
+  },
+  {
+    "Index": 277,
+    "Name": "Заражённые замшелые каменные кирпичи",
+    "Id": "infested_mossy_stone_bricks",
+    "Icon": 236
+  },
+  {
+    "Index": 278,
+    "Name": "Заражённый потрескавшийся каменный кирпич",
+    "Id": "infested_cracked_stone_bricks",
+    "Icon": 237
+  },
+  {
+    "Index": 279,
+    "Name": "Заражённые резные каменные кирпичи",
+    "Id": "infested_chiseled_stone_bricks",
+    "Icon": 238
+  },
+  {
+    "Index": 280,
+    "Name": "Заражённый глубинный сланец",
+    "Id": "infested_deepslate",
+    "Icon": 239
+  },
+  {
+    "Index": 281,
+    "Name": "Каменные кирпичи",
+    "Id": "stone_bricks",
+    "Icon": 240
+  },
+  {
+    "Index": 282,
+    "Name": "Замшелые каменные кирпичи",
+    "Id": "mossy_stone_bricks",
+    "Icon": 241
+  },
+  {
+    "Index": 283,
+    "Name": "Потрескавшиеся каменные кирпичи",
+    "Id": "cracked_stone_bricks",
+    "Icon": 242
+  },
+  {
+    "Index": 284,
+    "Name": "Резные каменные кирпичи",
+    "Id": "chiseled_stone_bricks",
+    "Icon": 243
+  },
+  {
+    "Index": 285,
+    "Name": "Потрескавшиеся глубиносланцевые кирпичи",
+    "Id": "cracked_deepslate_bricks",
+    "Icon": 244
+  },
+  {
+    "Index": 286,
+    "Name": "Потрескавшийся глубиносланцевый плитняк",
+    "Id": "cracked_deepslate_tiles",
+    "Icon": 245
+  },
+  {
+    "Index": 287,
+    "Name": "Глубиносланцевый плитняк",
+    "Id": "deepslate_tiles",
+    "Icon": 246
+  },
+  {
+    "Index": 288,
+    "Name": "Глубиносланцевые кирпичи",
+    "Id": "deepslate_bricks",
+    "Icon": 247
+  },
+  {
+    "Index": 289,
+    "Name": "Резной глубинный сланец",
+    "Id": "chilseled_deepslate",
+    "Icon": 248
+  },
+  {
+    "Index": 290,
+    "Name": "Блок коричневого гриба",
+    "Id": "brown_mushroom_block",
+    "Icon": 249
+  },
+  {
+    "Index": 291,
+    "Name": "Блок красного гриба",
+    "Id": "red_mushroom_block",
+    "Icon": 250
+  },
+  {
+    "Index": 292,
+    "Name": "Ножка гриба",
+    "Id": "mushroom_stem",
+    "Icon": 251
+  },
+  {
+    "Index": 293,
+    "Name": "Железные прутья",
+    "Id": "iron_bars",
+    "Icon": 252
+  },
+  {
+    "Index": 294,
+    "Name": "Цепь",
+    "Id": "chain",
+    "Icon": 253
+  },
+  {
+    "Index": 295,
+    "Name": "Стеклянная панель",
+    "Id": "glass_pane",
+    "Icon": 254
+  },
+  {
+    "Index": 296,
+    "Name": "Арбуз",
+    "Id": "melon",
+    "Icon": 255
+  },
+  {
+    "Index": 297,
+    "Name": "Лианы",
+    "Id": "vine",
+    "Icon": 256
+  },
+  {
+    "Index": 298,
+    "Name": "Светящийся лишайник",
+    "Id": "glow_lichen",
+    "Icon": 257
+  },
+  {
+    "Index": 299,
+    "Name": "Кирпичные ступеньки",
+    "Id": "brick_stairs",
+    "Icon": 258
+  },
+  {
+    "Index": 300,
+    "Name": "Ступеньки из каменного кирпича",
+    "Id": "stone_brick_stairs",
+    "Icon": 259
+  },
+  {
+    "Index": 301,
+    "Name": "Мицелий",
+    "Id": "mycelium",
+    "Icon": 260
+  },
+  {
+    "Index": 302,
+    "Name": "Кувшинка",
+    "Id": "lily_pad",
+    "Icon": 261
+  },
+  {
+    "Index": 303,
+    "Name": "Незерские кирпичи",
+    "Id": "nether_bricks",
+    "Icon": 262
+  },
+  {
+    "Index": 304,
+    "Name": "Потрескавшиеся незерские кирпичи",
+    "Id": "cracked_nether_bricks",
+    "Icon": 263
+  },
+  {
+    "Index": 305,
+    "Name": "Резные незерские кирпичи",
+    "Id": "chiseled_nether_bricks",
+    "Icon": 264
+  },
+  {
+    "Index": 306,
+    "Name": "Незерский забор",
+    "Id": "nether_brick_fence",
+    "Icon": 265
+  },
+  {
+    "Index": 307,
+    "Name": "Незерские ступеньки",
+    "Id": "nether_brick_stairs",
+    "Icon": 266
+  },
+  {
+    "Index": 308,
+    "Name": "Чародейский стол",
+    "Id": "enchanting_table",
+    "Icon": 267
+  },
+  {
+    "Index": 309,
+    "Name": "Рамка портала в Энд",
+    "Id": "end_portal_frame",
+    "Icon": 268
+  },
+  {
+    "Index": 310,
+    "Name": "Эндерняк",
+    "Id": "end_stone",
+    "Icon": 269
+  },
+  {
+    "Index": 311,
+    "Name": "Эндерняковые кирпичи",
+    "Id": "end_stone_bricks",
+    "Icon": 270
+  },
+  {
+    "Index": 312,
+    "Name": "Песчаниковые ступеньки",
+    "Id": "sandstone_stairs",
+    "Icon": 271
+  },
+  {
+    "Index": 313,
+    "Name": "Эндер-сундук",
+    "Id": "ender_chest",
+    "Icon": 274
+  },
+  {
+    "Index": 314,
+    "Name": "Изумрудный блок",
+    "Id": "emerald_block",
+    "Icon": 275
+  },
+  {
+    "Index": 315,
+    "Name": "Еловые ступеньки",
+    "Id": "spruce_stairs",
+    "Icon": 276
+  },
+  {
+    "Index": 316,
+    "Name": "Берёзовые ступеньки",
+    "Id": "birch_stairs",
+    "Icon": 277
+  },
+  {
+    "Index": 317,
+    "Name": "Ступеньки из тропического дерева",
+    "Id": "jungle_stairs",
+    "Icon": 278
+  },
+  {
+    "Index": 318,
+    "Name": "Багровые ступеньки",
+    "Id": "crimson_stairs",
+    "Icon": 279
+  },
+  {
+    "Index": 319,
+    "Name": "Искажённые ступеньки",
+    "Id": "warped_stairs",
+    "Icon": 280
+  },
+  {
+    "Index": 320,
+    "Name": "Маяк",
+    "Id": "beacon",
+    "Icon": 281
+  },
+  {
+    "Index": 321,
+    "Name": "Булыжная ограда",
+    "Id": "cobblestone_wall",
+    "Icon": 282
+  },
+  {
+    "Index": 322,
+    "Name": "Замшелая булыжная ограда",
+    "Id": "mossy_cobblestone_wall",
+    "Icon": 283
+  },
+  {
+    "Index": 323,
+    "Name": "Кирпичная ограда",
+    "Id": "brick_wall",
+    "Icon": 284
+  },
+  {
+    "Index": 324,
+    "Name": "Призмариовая ограда",
+    "Id": "prismarine_wall",
+    "Icon": 285
+  },
+  {
+    "Index": 325,
+    "Name": "Ограда из красного песчаника",
+    "Id": "red_sandstone_wall",
+    "Icon": 286
+  },
+  {
+    "Index": 326,
+    "Name": "Ограда из замшеловго каменного кирпича",
+    "Id": "mossy_stone_brick_wall",
+    "Icon": 287
+  },
+  {
+    "Index": 327,
+    "Name": "Гранитная ограда",
+    "Id": "granite_wall",
+    "Icon": 288
+  },
+  {
+    "Index": 328,
+    "Name": "Ограда из каменного кирпича",
+    "Id": "stone_brick_wall",
+    "Icon": 289
+  },
+  {
+    "Index": 329,
+    "Name": "Ограда из незерского кирпича",
+    "Id": "nether_brick_wall",
+    "Icon": 290
+  },
+  {
+    "Index": 330,
+    "Name": "Андезитовая ограда",
+    "Id": "andesite_wall",
+    "Icon": 291
+  },
+  {
+    "Index": 331,
+    "Name": "Ограда из красного незеритового кирпича",
+    "Id": "red_nether_brick_wall",
+    "Icon": 292
+  },
+  {
+    "Index": 332,
+    "Name": "Песчаниковая ограда",
+    "Id": "sandstone_wall",
+    "Icon": 293
+  },
+  {
+    "Index": 333,
+    "Name": "Ограда из эндернякового кирпича",
+    "Id": "end_stone_brick_wall",
+    "Icon": 294
+  },
+  {
+    "Index": 334,
+    "Name": "Диоритовая ограда",
+    "Id": "diorite_wall",
+    "Icon": 295
+  },
+  {
+    "Index": 335,
+    "Name": "Чернитная ограда",
+    "Id": "blackstone_wall",
+    "Icon": 296
+  },
+  {
+    "Index": 336,
+    "Name": "Ограда из полированного чернита",
+    "Id": "polished_blackstone_wall",
+    "Icon": 297
+  },
+  {
+    "Index": 337,
+    "Name": "Ограда из полированно-чернитного кирпича",
+    "Id": "polished_blackstone_brick_wall",
+    "Icon": 298
+  },
+  {
+    "Index": 338,
+    "Name": "Ограда из дробленого сланца",
+    "Id": "cobbled_deepslate_wall",
+    "Icon": 299
+  },
+  {
+    "Index": 339,
+    "Name": "Ограда из полированного сланца",
+    "Id": "polished_deepslate_wall",
+    "Icon": 300
+  },
+  {
+    "Index": 340,
+    "Name": "Ограда из сланцевого кафеля",
+    "Id": "deepslate_tile_wall",
+    "Icon": 301
+  },
+  {
+    "Index": 341,
+    "Name": "Ограда из сланцевого кирпича",
+    "Id": "deepslate_brick_wall",
+    "Icon": 302
+  },
+  {
+    "Index": 342,
+    "Name": "Наковальня",
+    "Id": "anvil",
+    "Icon": 303
+  },
+  {
+    "Index": 343,
+    "Name": "Повреждённая наковальня",
+    "Id": "chipped_anvil",
+    "Icon": 304
+  },
+  {
+    "Index": 344,
+    "Name": "Разбитая наковальня",
+    "Id": "damaged_anvil",
+    "Icon": 305
+  },
+  {
+    "Index": 345,
+    "Name": "Резной кварцевый блок",
+    "Id": "chiseled_quartz_block",
+    "Icon": 307
+  },
+  {
+    "Index": 346,
+    "Name": "Кварцевый блок",
+    "Id": "quartz_block",
+    "Icon": 308
+  },
+  {
+    "Index": 347,
+    "Name": "Кварцевые кирпичи",
+    "Id": "quartz_bricks",
+    "Icon": 309
+  },
+  {
+    "Index": 348,
+    "Name": "Кварцевая колонна",
+    "Id": "quartz_pillar",
+    "Icon": 310
+  },
+  {
+    "Index": 349,
+    "Name": "Кварцевые ступеньки",
+    "Id": "quartz_stairs",
+    "Icon": 311
+  },
+  {
+    "Index": 350,
+    "Name": "Белая керамика",
+    "Id": "white_terracotta",
+    "Icon": 313
+  },
+  {
+    "Index": 351,
+    "Name": "Оранжевая керамика",
+    "Id": "orange_terracotta",
+    "Icon": 314
+  },
+  {
+    "Index": 352,
+    "Name": "Пурпурная керамика",
+    "Id": "magenta_terracotta",
+    "Icon": 315
+  },
+  {
+    "Index": 353,
+    "Name": "Голубая керамика",
+    "Id": "light_blue_terracotta",
+    "Icon": 316
+  },
+  {
+    "Index": 354,
+    "Name": "Желтая керамика",
+    "Id": "yellow_terracotta",
+    "Icon": 317
+  },
+  {
+    "Index": 355,
+    "Name": "Лаймовая керамика",
+    "Id": "lime_terracotta",
+    "Icon": 318
+  },
+  {
+    "Index": 356,
+    "Name": "Розовая керамика",
+    "Id": "pink_terracotta",
+    "Icon": 319
+  },
+  {
+    "Index": 357,
+    "Name": "Серая керамика",
+    "Id": "gray_terracotta",
+    "Icon": 320
+  },
+  {
+    "Index": 358,
+    "Name": "Светло-серая керамика",
+    "Id": "light_gray_terracotta",
+    "Icon": 321
+  },
+  {
+    "Index": 359,
+    "Name": "Бирюзовая керамика",
+    "Id": "cyan_terracotta",
+    "Icon": 322
+  },
+  {
+    "Index": 360,
+    "Name": "Фиолетовая керамика",
+    "Id": "purple_terracotta",
+    "Icon": 323
+  },
+  {
+    "Index": 361,
+    "Name": "Синяя керамика",
+    "Id": "blue_terracotta",
+    "Icon": 324
+  },
+  {
+    "Index": 362,
+    "Name": "Коричневая керамика",
+    "Id": "brown_terracotta",
+    "Icon": 325
+  },
+  {
+    "Index": 363,
+    "Name": "Зеленая керамика",
+    "Id": "green_terracotta",
+    "Icon": 326
+  },
+  {
+    "Index": 364,
+    "Name": "Красная керамика",
+    "Id": "red_terracotta",
+    "Icon": 327
+  },
+  {
+    "Index": 365,
+    "Name": "Черная керамика",
+    "Id": "black_terracotta",
+    "Icon": 328
+  },
+  {
+    "Index": 366,
+    "Name": "Сноп сена",
+    "Id": "hay_block",
+    "Icon": 329
+  },
+  {
+    "Index": 367,
+    "Name": "Белый ковёр",
+    "Id": "white_carpet",
+    "Icon": 330
+  },
+  {
+    "Index": 368,
+    "Name": "Оранжевый ковёр",
+    "Id": "orange_carpet",
+    "Icon": 331
+  },
+  {
+    "Index": 369,
+    "Name": "Пурпурный ковёр",
+    "Id": "magenta_carpet",
+    "Icon": 332
+  },
+  {
+    "Index": 370,
+    "Name": "Голубой ковёр",
+    "Id": "light_blue_carpet",
+    "Icon": 333
+  },
+  {
+    "Index": 371,
+    "Name": "Жёлтый ковёр",
+    "Id": "yellow_carpet",
+    "Icon": 334
+  },
+  {
+    "Index": 372,
+    "Name": "Лаймовый ковёр",
+    "Id": "lime_carpet",
+    "Icon": 335
+  },
+  {
+    "Index": 373,
+    "Name": "Розовый ковёр",
+    "Id": "pink_carpet",
+    "Icon": 336
+  },
+  {
+    "Index": 374,
+    "Name": "Серый ковёр",
+    "Id": "gray_carpet",
+    "Icon": 337
+  },
+  {
+    "Index": 375,
+    "Name": "Светло-серый ковёр",
+    "Id": "light_gray_carpet",
+    "Icon": 338
+  },
+  {
+    "Index": 376,
+    "Name": "Бирюзовый ковёр",
+    "Id": "cyan_carpet",
+    "Icon": 339
+  },
+  {
+    "Index": 377,
+    "Name": "Фиолетовый ковёр",
+    "Id": "purple_carpet",
+    "Icon": 340
+  },
+  {
+    "Index": 378,
+    "Name": "Синий ковёр",
+    "Id": "blue_carpet",
+    "Icon": 341
+  },
+  {
+    "Index": 379,
+    "Name": "Коричневый ковёр",
+    "Id": "brown_carpet",
+    "Icon": 342
+  },
+  {
+    "Index": 380,
+    "Name": "Зеленый ковёр",
+    "Id": "green_carpet",
+    "Icon": 343
+  },
+  {
+    "Index": 381,
+    "Name": "Красный ковёр",
+    "Id": "red_carpet",
+    "Icon": 344
+  },
+  {
+    "Index": 382,
+    "Name": "Черный ковёр",
+    "Id": "black_carpet",
+    "Icon": 345
+  },
+  {
+    "Index": 383,
+    "Name": "Терракотта",
+    "Id": "terracotta",
+    "Icon": 346
+  },
+  {
+    "Index": 384,
+    "Name": "Плотный лёд",
+    "Id": "packed_ice",
+    "Icon": 348
+  },
+  {
+    "Index": 385,
+    "Name": "Акациевые ступеньки",
+    "Id": "acacia_stairs",
+    "Icon": 349
+  },
+  {
+    "Index": 386,
+    "Name": "Ступеньки из тёмного дуба",
+    "Id": "dark_oak_stairs",
+    "Icon": 350
+  },
+  {
+    "Index": 387,
+    "Name": "Тропинка",
+    "Id": "grass_path",
+    "Icon": 351
+  },
+  {
+    "Index": 388,
+    "Name": "Подсолнух",
+    "Id": "sunflower",
+    "Icon": 352
+  },
+  {
+    "Index": 389,
+    "Name": "Сирень",
+    "Id": "lilac",
+    "Icon": 353
+  },
+  {
+    "Index": 390,
+    "Name": "Розовый куст",
+    "Id": "rose_bush",
+    "Icon": 354
+  },
+  {
+    "Index": 391,
+    "Name": "Пион",
+    "Id": "peony",
+    "Icon": 355
+  },
+  {
+    "Index": 392,
+    "Name": "Высокая трава",
+    "Id": "tall_grass",
+    "Icon": 356
+  },
+  {
+    "Index": 393,
+    "Name": "Раскидистый папоротник",
+    "Id": "large_fern",
+    "Icon": 357
+  },
+  {
+    "Index": 394,
+    "Name": "Белое стекло",
+    "Id": "white_stained_glass",
+    "Icon": 358
+  },
+  {
+    "Index": 395,
+    "Name": "Оранжевое стекло",
+    "Id": "orange_stained_glass",
+    "Icon": 359
+  },
+  {
+    "Index": 396,
+    "Name": "Пурпурное стекло",
+    "Id": "magenta_stained_glass",
+    "Icon": 360
+  },
+  {
+    "Index": 397,
+    "Name": "Голубое стекло",
+    "Id": "light_blue_stained_glass",
+    "Icon": 361
+  },
+  {
+    "Index": 398,
+    "Name": "Желтое стекло",
+    "Id": "yellow_stained_glass",
+    "Icon": 362
+  },
+  {
+    "Index": 399,
+    "Name": "Лаймовое стекло",
+    "Id": "lime_stained_glass",
+    "Icon": 363
+  },
+  {
+    "Index": 400,
+    "Name": "Розовое стекло",
+    "Id": "pink_stained_glass",
+    "Icon": 364
+  },
+  {
+    "Index": 401,
+    "Name": "Серое стекло",
+    "Id": "gray_stained_glass",
+    "Icon": 365
+  },
+  {
+    "Index": 402,
+    "Name": "Светло-серое стекло",
+    "Id": "light_gray_stained_glass",
+    "Icon": 366
+  },
+  {
+    "Index": 403,
+    "Name": "Бирюзовое стекло",
+    "Id": "cyan_stained_glass",
+    "Icon": 367
+  },
+  {
+    "Index": 404,
+    "Name": "Фиолетовое стекло",
+    "Id": "purple_stained_glass",
+    "Icon": 368
+  },
+  {
+    "Index": 405,
+    "Name": "Синее стекло",
+    "Id": "blue_stained_glass",
+    "Icon": 369
+  },
+  {
+    "Index": 406,
+    "Name": "Коричневое стекло",
+    "Id": "brown_stained_glass",
+    "Icon": 370
+  },
+  {
+    "Index": 407,
+    "Name": "Зеленое стекло",
+    "Id": "green_stained_glass",
+    "Icon": 371
+  },
+  {
+    "Index": 408,
+    "Name": "Красное стекло",
+    "Id": "red_stained_glass",
+    "Icon": 372
+  },
+  {
+    "Index": 409,
+    "Name": "Черное стекло",
+    "Id": "black_stained_glass",
+    "Icon": 373
+  },
+  {
+    "Index": 410,
+    "Name": "Белая стеклянная панель",
+    "Id": "white_stained_glass_pane",
+    "Icon": 374
+  },
+  {
+    "Index": 411,
+    "Name": "Оранжевая стеклянная панель",
+    "Id": "orange_stained_glass_pane",
+    "Icon": 375
+  },
+  {
+    "Index": 412,
+    "Name": "Пурпурная стеклянная панель",
+    "Id": "magenta_stained_glass_pane",
+    "Icon": 376
+  },
+  {
+    "Index": 413,
+    "Name": "Голубая стеклянная панель",
+    "Id": "light_blue_stained_glass_pane",
+    "Icon": 377
+  },
+  {
+    "Index": 414,
+    "Name": "Желтая стеклянная панель",
+    "Id": "yellow_stained_glass_pane",
+    "Icon": 378
+  },
+  {
+    "Index": 415,
+    "Name": "Лаймовая стеклянная панель",
+    "Id": "lime_stained_glass_pane",
+    "Icon": 379
+  },
+  {
+    "Index": 416,
+    "Name": "Розовая стеклянная панель",
+    "Id": "pink_stained_glass_pane",
+    "Icon": 380
+  },
+  {
+    "Index": 417,
+    "Name": "Серая стеклянная панель",
+    "Id": "gray_stained_glass_pane",
+    "Icon": 381
+  },
+  {
+    "Index": 418,
+    "Name": "Светло-серая стеклянная панель",
+    "Id": "light_gray_stained_glass_pane",
+    "Icon": 382
+  },
+  {
+    "Index": 419,
+    "Name": "Бирюзовая стеклянная панель",
+    "Id": "cyan_stained_glass_pane",
+    "Icon": 383
+  },
+  {
+    "Index": 420,
+    "Name": "Фиолетовая стеклянная панель",
+    "Id": "purple_stained_glass_pane",
+    "Icon": 384
+  },
+  {
+    "Index": 421,
+    "Name": "Синяя стеклянная панель",
+    "Id": "blue_stained_glass_pane",
+    "Icon": 385
+  },
+  {
+    "Index": 422,
+    "Name": "Коричневая стеклянная панель",
+    "Id": "brown_stained_glass_pane",
+    "Icon": 386
+  },
+  {
+    "Index": 423,
+    "Name": "Зеленая стеклянная панель",
+    "Id": "green_stained_glass_pane",
+    "Icon": 387
+  },
+  {
+    "Index": 424,
+    "Name": "Красная стеклянная панель",
+    "Id": "red_stained_glass_pane",
+    "Icon": 388
+  },
+  {
+    "Index": 425,
+    "Name": "Черная стеклянная панель",
+    "Id": "black_stained_glass_pane",
+    "Icon": 389
+  },
+  {
+    "Index": 426,
+    "Name": "Призмарин",
+    "Id": "prismarine",
+    "Icon": 390
+  },
+  {
+    "Index": 427,
+    "Name": "Призмариновые кирпичи",
+    "Id": "prismarine_bricks",
+    "Icon": 391
+  },
+  {
+    "Index": 428,
+    "Name": "Тёмный призмарин",
+    "Id": "dark_prismarine",
+    "Icon": 392
+  },
+  {
+    "Index": 429,
+    "Name": "Призмариновые ступеньки",
+    "Id": "prismarine_stairs",
+    "Icon": 393
+  },
+  {
+    "Index": 430,
+    "Name": "Ступеньки из призмариновых кирпичей",
+    "Id": "prismarine_brick_stairs",
+    "Icon": 394
+  },
+  {
+    "Index": 431,
+    "Name": "Ступеньки из тёмного призмарина",
+    "Id": "dark_prismarine_stairs",
+    "Icon": 395
+  },
+  {
+    "Index": 432,
+    "Name": "Морской фонарь",
+    "Id": "sea_lantern",
+    "Icon": 396
+  },
+  {
+    "Index": 433,
+    "Name": "Красный песчаник",
+    "Id": "red_sandstone",
+    "Icon": 397
+  },
+  {
+    "Index": 434,
+    "Name": "Резной красный песчаник",
+    "Id": "chiseled_red_sandstone",
+    "Icon": 398
+  },
+  {
+    "Index": 435,
+    "Name": "Пиленый красный песчаник",
+    "Id": "cut_red_sandstone",
+    "Icon": 399
+  },
+  {
+    "Index": 436,
+    "Name": "Ступеньки из красного песчаника",
+    "Id": "red_sandstone_stairs",
+    "Icon": 400
+  },
+  {
+    "Index": 437,
+    "Name": "Магма",
+    "Id": "magma_block",
+    "Icon": 401
+  },
+  {
+    "Index": 438,
+    "Name": "Блок незерского нароста",
+    "Id": "nether_wart_block",
+    "Icon": 402
+  },
+  {
+    "Index": 439,
+    "Name": "Блок искажённого нароста",
+    "Id": "warped_wart_block",
+    "Icon": 403
+  },
+  {
+    "Index": 440,
+    "Name": "Красные незерские кирпичи",
+    "Id": "red_nether_bricks",
+    "Icon": 404
+  },
+  {
+    "Index": 441,
+    "Name": "Костный блок",
+    "Id": "bone_block",
+    "Icon": 405
+  },
+  {
+    "Index": 442,
+    "Name": "Шалкеровый ящик",
+    "Id": "shulker_box",
+    "Icon": 406
+  },
+  {
+    "Index": 443,
+    "Name": "Белый шалкеровый ящик",
+    "Id": "white_shulker_box",
+    "Icon": 407
+  },
+  {
+    "Index": 444,
+    "Name": "Оранжевый шалкеровый ящик",
+    "Id": "orange_shulker_box",
+    "Icon": 408
+  },
+  {
+    "Index": 445,
+    "Name": "Пурпурный шалкеровый ящик",
+    "Id": "magenta_shulker_box",
+    "Icon": 409
+  },
+  {
+    "Index": 446,
+    "Name": "Голубой шалкеровый ящик",
+    "Id": "light_blue_shulker_box",
+    "Icon": 410
+  },
+  {
+    "Index": 447,
+    "Name": "Желтый шалкеровый ящик",
+    "Id": "yellow_shulker_box",
+    "Icon": 411
+  },
+  {
+    "Index": 448,
+    "Name": "Лаймовый шалкеровый ящик",
+    "Id": "lime_shulker_box",
+    "Icon": 412
+  },
+  {
+    "Index": 449,
+    "Name": "Розовый шалкеровый ящик",
+    "Id": "pink_shulker_box",
+    "Icon": 413
+  },
+  {
+    "Index": 450,
+    "Name": "Серый шалкеровый ящик",
+    "Id": "gray_shulker_box",
+    "Icon": 414
+  },
+  {
+    "Index": 451,
+    "Name": "Светло-серый шалкеровый ящик",
+    "Id": "light_gray_shulker_box",
+    "Icon": 415
+  },
+  {
+    "Index": 452,
+    "Name": "Бирюзовый шалкеровый ящик",
+    "Id": "cyan_shulker_box",
+    "Icon": 416
+  },
+  {
+    "Index": 453,
+    "Name": "Фиолетовый шалкеровый ящик",
+    "Id": "purple_shulker_box",
+    "Icon": 417
+  },
+  {
+    "Index": 454,
+    "Name": "Синий шалкеровый ящик",
+    "Id": "blue_shulker_box",
+    "Icon": 418
+  },
+  {
+    "Index": 455,
+    "Name": "Коричневый шалкеровый ящик",
+    "Id": "brown_shulker_box",
+    "Icon": 419
+  },
+  {
+    "Index": 456,
+    "Name": "Зеленый шалкеровый ящик",
+    "Id": "green_shulker_box",
+    "Icon": 420
+  },
+  {
+    "Index": 457,
+    "Name": "Красный шалкеровый ящик",
+    "Id": "red_shulker_box",
+    "Icon": 421
+  },
+  {
+    "Index": 458,
+    "Name": "Черный шалкеровый ящик",
+    "Id": "black_shulker_box",
+    "Icon": 422
+  },
+  {
+    "Index": 459,
+    "Name": "Белая глазурованная керамика",
+    "Id": "white_glazed_terracotta",
+    "Icon": 423
+  },
+  {
+    "Index": 460,
+    "Name": "Оранжевая глазурованная керамика",
+    "Id": "orange_glazed_terracotta",
+    "Icon": 424
+  },
+  {
+    "Index": 461,
+    "Name": "Пурпурная глазурованная керамика",
+    "Id": "magenta_glazed_terracotta",
+    "Icon": 425
+  },
+  {
+    "Index": 462,
+    "Name": "Голубая глазурованная керамика",
+    "Id": "light_blue_glazed_terracotta",
+    "Icon": 426
+  },
+  {
+    "Index": 463,
+    "Name": "Желтая глазурованная керамика",
+    "Id": "yellow_glazed_terracotta",
+    "Icon": 427
+  },
+  {
+    "Index": 464,
+    "Name": "Лаймовая глазурованная керамика",
+    "Id": "lime_glazed_terracotta",
+    "Icon": 428
+  },
+  {
+    "Index": 465,
+    "Name": "Розовая глазурованная керамика",
+    "Id": "pink_glazed_terracotta",
+    "Icon": 429
+  },
+  {
+    "Index": 466,
+    "Name": "Серая глазурованная керамика",
+    "Id": "gray_glazed_terracotta",
+    "Icon": 430
+  },
+  {
+    "Index": 467,
+    "Name": "Светло-серая глазурованная керамика",
+    "Id": "light_gray_glazed_terracotta",
+    "Icon": 431
+  },
+  {
+    "Index": 468,
+    "Name": "Бирюзовая глазурованная керамика",
+    "Id": "cyan_glazed_terracotta",
+    "Icon": 432
+  },
+  {
+    "Index": 469,
+    "Name": "Фиолетовая глазурованная керамика",
+    "Id": "purple_glazed_terracotta",
+    "Icon": 433
+  },
+  {
+    "Index": 470,
+    "Name": "Синяя глазурованная керамика",
+    "Id": "blue_glazed_terracotta",
+    "Icon": 434
+  },
+  {
+    "Index": 471,
+    "Name": "Коричневая глазурованная керамика",
+    "Id": "brown_glazed_terracotta",
+    "Icon": 435
+  },
+  {
+    "Index": 472,
+    "Name": "Зеленая глазурованная керамика",
+    "Id": "green_glazed_terracotta",
+    "Icon": 436
+  },
+  {
+    "Index": 473,
+    "Name": "Красная глазурованная керамика",
+    "Id": "red_glazed_terracotta",
+    "Icon": 437
+  },
+  {
+    "Index": 474,
+    "Name": "Черная глазурованная керамика",
+    "Id": "black_glazed_terracotta",
+    "Icon": 438
+  },
+  {
+    "Index": 475,
+    "Name": "Белый бетон",
+    "Id": "white_concrete",
+    "Icon": 439
+  },
+  {
+    "Index": 476,
+    "Name": "Оранжевый бетон",
+    "Id": "orange_concrete",
+    "Icon": 440
+  },
+  {
+    "Index": 477,
+    "Name": "Пурпурный бетон",
+    "Id": "magenta_concrete",
+    "Icon": 441
+  },
+  {
+    "Index": 478,
+    "Name": "Голубой бетон",
+    "Id": "light_blue_concrete",
+    "Icon": 442
+  },
+  {
+    "Index": 479,
+    "Name": "Желтый бетон",
+    "Id": "yellow_concrete",
+    "Icon": 443
+  },
+  {
+    "Index": 480,
+    "Name": "Лаймовый бетон",
+    "Id": "lime_concrete",
+    "Icon": 444
+  },
+  {
+    "Index": 481,
+    "Name": "Розовый бетон",
+    "Id": "pink_concrete",
+    "Icon": 445
+  },
+  {
+    "Index": 482,
+    "Name": "Серый бетон",
+    "Id": "gray_concrete",
+    "Icon": 446
+  },
+  {
+    "Index": 483,
+    "Name": "Светло-серый бетон",
+    "Id": "light_gray_concrete",
+    "Icon": 447
+  },
+  {
+    "Index": 484,
+    "Name": "Бирюзовый бетон",
+    "Id": "cyan_concrete",
+    "Icon": 448
+  },
+  {
+    "Index": 485,
+    "Name": "Фиолетовый бетон",
+    "Id": "purple_concrete",
+    "Icon": 449
+  },
+  {
+    "Index": 486,
+    "Name": "Синий бетон",
+    "Id": "blue_concrete",
+    "Icon": 450
+  },
+  {
+    "Index": 487,
+    "Name": "Коричневый бетон",
+    "Id": "brown_concrete",
+    "Icon": 451
+  },
+  {
+    "Index": 488,
+    "Name": "Зеленый бетон",
+    "Id": "green_concrete",
+    "Icon": 452
+  },
+  {
+    "Index": 489,
+    "Name": "Красный бетон",
+    "Id": "red_concrete",
+    "Icon": 453
+  },
+  {
+    "Index": 490,
+    "Name": "Черный бетон",
+    "Id": "black_concrete",
+    "Icon": 454
+  },
+  {
+    "Index": 491,
+    "Name": "Белый сухой бетон",
+    "Id": "white_concrete_powder",
+    "Icon": 455
+  },
+  {
+    "Index": 492,
+    "Name": "Оранжевый сухой бетон",
+    "Id": "orange_concrete_powder",
+    "Icon": 456
+  },
+  {
+    "Index": 493,
+    "Name": "Пурпурный сухой бетон",
+    "Id": "magenta_concrete_powder",
+    "Icon": 457
+  },
+  {
+    "Index": 494,
+    "Name": "Голубой сухой бетон",
+    "Id": "light_blue_concrete_powder",
+    "Icon": 458
+  },
+  {
+    "Index": 495,
+    "Name": "Желтый сухой бетон",
+    "Id": "yellow_concrete_powder",
+    "Icon": 459
+  },
+  {
+    "Index": 496,
+    "Name": "Лаймовый сухой бетон",
+    "Id": "lime_concrete_powder",
+    "Icon": 460
+  },
+  {
+    "Index": 497,
+    "Name": "Розовый сухой бетон",
+    "Id": "pink_concrete_powder",
+    "Icon": 461
+  },
+  {
+    "Index": 498,
+    "Name": "Серый сухой бетон",
+    "Id": "gray_concrete_powder",
+    "Icon": 462
+  },
+  {
+    "Index": 499,
+    "Name": "Светло-серый сухой бетон",
+    "Id": "light_gray_concrete_powder",
+    "Icon": 463
+  },
+  {
+    "Index": 500,
+    "Name": "Бирюзовый сухой бетон",
+    "Id": "cyan_concrete_powder",
+    "Icon": 464
+  },
+  {
+    "Index": 501,
+    "Name": "Фиолетовый сухой бетон",
+    "Id": "purple_concrete_powder",
+    "Icon": 465
+  },
+  {
+    "Index": 502,
+    "Name": "Синий сухой бетон",
+    "Id": "blue_concrete_powder",
+    "Icon": 466
+  },
+  {
+    "Index": 503,
+    "Name": "Коричневый сухой бетон",
+    "Id": "brown_concrete_powder",
+    "Icon": 467
+  },
+  {
+    "Index": 504,
+    "Name": "Зеленый сухой бетон",
+    "Id": "green_concrete_powder",
+    "Icon": 468
+  },
+  {
+    "Index": 505,
+    "Name": "Красный сухой бетон",
+    "Id": "red_concrete_powder",
+    "Icon": 469
+  },
+  {
+    "Index": 506,
+    "Name": "Черный сухой бетон",
+    "Id": "black_concrete_powder",
+    "Icon": 470
+  },
+  {
+    "Index": 507,
+    "Name": "Черепашье яйцо",
+    "Id": "turtle_egg",
+    "Icon": 471
+  },
+  {
+    "Index": 508,
+    "Name": "Блок мёртвого трубчатого коралла",
+    "Id": "dead_tube_coral_block",
+    "Icon": 472
+  },
+  {
+    "Index": 509,
+    "Name": "Блок мёртвого коралла-мозговика",
+    "Id": "dead_brain_coral_block",
+    "Icon": 473
+  },
+  {
+    "Index": 510,
+    "Name": "Блок мёртвого пузырчатого коралла",
+    "Id": "dead_bubble_coral_block",
+    "Icon": 474
+  },
+  {
+    "Index": 511,
+    "Name": "Блок мёртвого огненного коралла",
+    "Id": "dead_fire_coral_block",
+    "Icon": 475
+  },
+  {
+    "Index": 512,
+    "Name": "Блок мёртвого рогового коралла",
+    "Id": "dead_horn_coral_block",
+    "Icon": 476
+  },
+  {
+    "Index": 513,
+    "Name": "Блок трубчатого коралла",
+    "Id": "tube_coral_block",
+    "Icon": 477
+  },
+  {
+    "Index": 514,
+    "Name": "Блок коралла-мозговика",
+    "Id": "brain_coral_block",
+    "Icon": 478
+  },
+  {
+    "Index": 515,
+    "Name": "Блок пузырчатого коралла",
+    "Id": "bubble_coral_block",
+    "Icon": 479
+  },
+  {
+    "Index": 516,
+    "Name": "Блок огненного коралла",
+    "Id": "fire_coral_block",
+    "Icon": 480
+  },
+  {
+    "Index": 517,
+    "Name": "Блок рогового коралла",
+    "Id": "horn_coral_block",
+    "Icon": 481
+  },
+  {
+    "Index": 518,
+    "Name": "Трубчатый коралл",
+    "Id": "tube_coral",
+    "Icon": 482
+  },
+  {
+    "Index": 519,
+    "Name": "Коралл-мозговик",
+    "Id": "brain_coral",
+    "Icon": 483
+  },
+  {
+    "Index": 520,
+    "Name": "Пузырчатый коралл",
+    "Id": "bubble_coral",
+    "Icon": 484
+  },
+  {
+    "Index": 521,
+    "Name": "Огненный коралл",
+    "Id": "fire_coral",
+    "Icon": 485
+  },
+  {
+    "Index": 522,
+    "Name": "Роговой коралл",
+    "Id": "horn_coral",
+    "Icon": 486
+  },
+  {
+    "Index": 523,
+    "Name": "Мёртвый коралл-мозговик",
+    "Id": "dead_brain_coral",
+    "Icon": 487
+  },
+  {
+    "Index": 524,
+    "Name": "Мёртвый пузырчатый коралл",
+    "Id": "dead_bubble_coral",
+    "Icon": 488
+  },
+  {
+    "Index": 525,
+    "Name": "Мёртвый огненный коралл",
+    "Id": "dead_fire_coral",
+    "Icon": 489
+  },
+  {
+    "Index": 526,
+    "Name": "Мёртвый роговой коралл",
+    "Id": "dead_horn_coral",
+    "Icon": 490
+  },
+  {
+    "Index": 527,
+    "Name": "Мёртвый трубчатый коралл",
+    "Id": "dead_tube_coral",
+    "Icon": 491
+  },
+  {
+    "Index": 528,
+    "Name": "Веерный трубчатый коралл",
+    "Id": "tube_coral_fan",
+    "Icon": 492
+  },
+  {
+    "Index": 529,
+    "Name": "Веерный коралл-мозговик",
+    "Id": "brain_coral_fan",
+    "Icon": 493
+  },
+  {
+    "Index": 530,
+    "Name": "Веерный пузырчатый коралл",
+    "Id": "bubble_coral_fan",
+    "Icon": 494
+  },
+  {
+    "Index": 531,
+    "Name": "Веерный огненный коралл",
+    "Id": "fire_coral_fan",
+    "Icon": 495
+  },
+  {
+    "Index": 532,
+    "Name": "Веерный роговой коралл",
+    "Id": "horn_coral_fan",
+    "Icon": 496
+  },
+  {
+    "Index": 533,
+    "Name": "Мёртвый веерный трубчатый коралл",
+    "Id": "dead_tube_coral_fan",
+    "Icon": 497
+  },
+  {
+    "Index": 534,
+    "Name": "Мёртвый веерный коралл-мозговик",
+    "Id": "dead_brain_coral_fan",
+    "Icon": 498
+  },
+  {
+    "Index": 535,
+    "Name": "Мёртвый веерный пузырчатый коралл",
+    "Id": "dead_bubble_coral_fan",
+    "Icon": 499
+  },
+  {
+    "Index": 536,
+    "Name": "Мёртвый веерный огненный коралл",
+    "Id": "dead_fire_coral_fan",
+    "Icon": 500
+  },
+  {
+    "Index": 537,
+    "Name": "Мёртвый веерный роговой коралл",
+    "Id": "dead_horn_coral_fan",
+    "Icon": 501
+  },
+  {
+    "Index": 538,
+    "Name": "Синий лёд",
+    "Id": "blue_ice",
+    "Icon": 502
+  },
+  {
+    "Index": 539,
+    "Name": "Морской источник",
+    "Id": "conduit",
+    "Icon": 503
+  },
+  {
+    "Index": 540,
+    "Name": "Ступеньки из полированного гранита",
+    "Id": "polished_granite_stairs",
+    "Icon": 504
+  },
+  {
+    "Index": 541,
+    "Name": "Ступеньки из гладкого красного песчаника",
+    "Id": "smooth_red_sandstone_stairs",
+    "Icon": 505
+  },
+  {
+    "Index": 542,
+    "Name": "Ступеньки из замшелого каменного кирпича",
+    "Id": "mossy_stone_brick_stairs",
+    "Icon": 506
+  },
+  {
+    "Index": 543,
+    "Name": "Ступеньки из полированного диорита",
+    "Id": "polished_diorite_stairs",
+    "Icon": 507
+  },
+  {
+    "Index": 544,
+    "Name": "Замшелые булыжные ступеньки",
+    "Id": "mossy_cobblestone_stairs",
+    "Icon": 508
+  },
+  {
+    "Index": 545,
+    "Name": "Ступеньки из эндернякового кирпича",
+    "Id": "end_stone_brick_stairs",
+    "Icon": 509
+  },
+  {
+    "Index": 546,
+    "Name": "Каменные ступеньки",
+    "Id": "stone_stairs",
+    "Icon": 510
+  },
+  {
+    "Index": 547,
+    "Name": "Ступеньки из гладкого песчаника",
+    "Id": "smooth_sandstone_stairs",
+    "Icon": 511
+  },
+  {
+    "Index": 548,
+    "Name": "Ступеньки из гладкого кварца",
+    "Id": "smooth_quartz_stairs",
+    "Icon": 512
+  },
+  {
+    "Index": 549,
+    "Name": "Гранитные ступеньки",
+    "Id": "granite_stairs",
+    "Icon": 513
+  },
+  {
+    "Index": 550,
+    "Name": "Андезитовые ступеньки",
+    "Id": "andesite_stairs",
+    "Icon": 514
+  },
+  {
+    "Index": 551,
+    "Name": "Ступеньки из красного незерского кирпича",
+    "Id": "red_nether_brick_stairs",
+    "Icon": 515
+  },
+  {
+    "Index": 552,
+    "Name": "Ступеньки из полированного андезита",
+    "Id": "polished_andesite_stairs",
+    "Icon": 516
+  },
+  {
+    "Index": 553,
+    "Name": "Диоритовые ступеньки",
+    "Id": "diorite_stairs",
+    "Icon": 517
+  },
+  {
+    "Index": 554,
+    "Name": "Ступеньки из колотого глубинного сланца",
+    "Id": "cobbled_deepslate_stairs",
+    "Icon": 518
+  },
+  {
+    "Index": 555,
+    "Name": "Ступеньки из полированного глубинного сланца",
+    "Id": "polished_deepslate_stairs",
+    "Icon": 519
+  },
+  {
+    "Index": 556,
+    "Name": "Ступеньки из глубинносланцевого плитняка",
+    "Id": "deepslate_tile_stairs",
+    "Icon": 520
+  },
+  {
+    "Index": 557,
+    "Name": "Ступеньки из глубинносланцевых кирпичей",
+    "Id": "deepslate_brick_stairs",
+    "Icon": 521
+  },
+  {
+    "Index": 558,
+    "Name": "Плита из полированного гранита",
+    "Id": "polished_granite_slab",
+    "Icon": 522
+  },
+  {
+    "Index": 559,
+    "Name": "Плита из гладкого красного песчаника",
+    "Id": "smooth_red_sandstone_slab",
+    "Icon": 523
+  },
+  {
+    "Index": 560,
+    "Name": "Плита из замшелого каменного кирпича",
+    "Id": "mossy_stone_brick_slab",
+    "Icon": 524
+  },
+  {
+    "Index": 561,
+    "Name": "Плита из полированного диорита",
+    "Id": "polished_diorite_slab",
+    "Icon": 525
+  },
+  {
+    "Index": 562,
+    "Name": "Замшелая булыжная плита",
+    "Id": "mossy_cobblestone_slab",
+    "Icon": 526
+  },
+  {
+    "Index": 563,
+    "Name": "Плита из эндернякового кирпича",
+    "Id": "end_stone_brick_slab",
+    "Icon": 527
+  },
+  {
+    "Index": 564,
+    "Name": "Плита из гладкого песчаника",
+    "Id": "smooth_sandstone_slab",
+    "Icon": 528
+  },
+  {
+    "Index": 565,
+    "Name": "Плита из гладкого кварца",
+    "Id": "smooth_quartz_slab",
+    "Icon": 529
+  },
+  {
+    "Index": 566,
+    "Name": "Гранитная плита",
+    "Id": "granite_slab",
+    "Icon": 530
+  },
+  {
+    "Index": 567,
+    "Name": "Андезитовая плита",
+    "Id": "andesite_slab",
+    "Icon": 531
+  },
+  {
+    "Index": 568,
+    "Name": "Плита из красного незерского кирпича",
+    "Id": "red_nether_brick_slab",
+    "Icon": 532
+  },
+  {
+    "Index": 569,
+    "Name": "Плита из полированного андезита",
+    "Id": "polished_andesite_slab",
+    "Icon": 533
+  },
+  {
+    "Index": 570,
+    "Name": "Диоритовая плита",
+    "Id": "diorite_slab",
+    "Icon": 534
+  },
+  {
+    "Index": 571,
+    "Name": "Плита из колотого глубинного сланца",
+    "Id": "cobbled_deepslate_slab",
+    "Icon": 535
+  },
+  {
+    "Index": 572,
+    "Name": "Плита из полированного глубинного сланца",
+    "Id": "polished_deepslate_slab",
+    "Icon": 536
+  },
+  {
+    "Index": 573,
+    "Name": "Плита из глубинносланцевых кирпичей",
+    "Id": "deepslate_brick_slab",
+    "Icon": 537
+  },
+  {
+    "Index": 574,
+    "Name": "Плита из глубинносланцевого плитняка",
+    "Id": "deepslate_tile_slab",
+    "Icon": 538
+  },
+  {
+    "Index": 575,
+    "Name": "Подмостки",
+    "Id": "scaffolding",
+    "Icon": 539
+  },
+  {
+    "Index": 576,
+    "Name": "Редстоуновая пыль",
+    "Id": "redstone",
+    "Icon": 540
+  },
+  {
+    "Index": 577,
+    "Name": "Редстоуновый факел",
+    "Id": "redstone_torch",
+    "Icon": 541
+  },
+  {
+    "Index": 578,
+    "Name": "Редстоуновый блок",
+    "Id": "redstone_block",
+    "Icon": 542
+  },
+  {
+    "Index": 579,
+    "Name": "Редстоуновый повторитель",
+    "Id": "repeater",
+    "Icon": 543
+  },
+  {
+    "Index": 580,
+    "Name": "Редстоуновый компаратор",
+    "Id": "comparator",
+    "Icon": 544
+  },
+  {
+    "Index": 581,
+    "Name": "Поршень",
+    "Id": "piston",
+    "Icon": 545
+  },
+  {
+    "Index": 582,
+    "Name": "Липкий поршень",
+    "Id": "sticky_piston",
+    "Icon": 546
+  },
+  {
+    "Index": 583,
+    "Name": "Блок слизи",
+    "Id": "slime_block",
+    "Icon": 547
+  },
+  {
+    "Index": 584,
+    "Name": "Блок мёда",
+    "Id": "honey_block",
+    "Icon": 548
+  },
+  {
+    "Index": 585,
+    "Name": "Наблюдатель",
+    "Id": "observer",
+    "Icon": 549
+  },
+  {
+    "Index": 586,
+    "Name": "Воронка",
+    "Id": "hopper",
+    "Icon": 550
+  },
+  {
+    "Index": 587,
+    "Name": "Раздатчик",
+    "Id": "dispenser",
+    "Icon": 551
+  },
+  {
+    "Index": 588,
+    "Name": "Выбрасыватель",
+    "Id": "dropper",
+    "Icon": 552
+  },
+  {
+    "Index": 589,
+    "Name": "Кафедра",
+    "Id": "lectern",
+    "Icon": 553
+  },
+  {
+    "Index": 590,
+    "Name": "Мишень",
+    "Id": "target",
+    "Icon": 554
+  },
+  {
+    "Index": 591,
+    "Name": "Рычаг",
+    "Id": "lever",
+    "Icon": 555
+  },
+  {
+    "Index": 592,
+    "Name": "Громоотвод",
+    "Id": "lightning_rod",
+    "Icon": 556
+  },
+  {
+    "Index": 593,
+    "Name": "Датчик дневного света",
+    "Id": "daylight_detector",
+    "Icon": 557
+  },
+  {
+    "Index": 594,
+    "Name": "Крюк",
+    "Id": "tripwire_hook",
+    "Icon": 559
+  },
+  {
+    "Index": 595,
+    "Name": "Сундук-ловушка",
+    "Id": "trapped_chest",
+    "Icon": 560
+  },
+  {
+    "Index": 596,
+    "Name": "Динамит",
+    "Id": "tnt",
+    "Icon": 561
+  },
+  {
+    "Index": 597,
+    "Name": "Редстоуновый фонарь",
+    "Id": "redstone_lamp",
+    "Icon": 562
+  },
+  {
+    "Index": 598,
+    "Name": "Нотный блок",
+    "Id": "note_block",
+    "Icon": 563
+  },
+  {
+    "Index": 599,
+    "Name": "Каменная кнопка",
+    "Id": "stone_button",
+    "Icon": 564
+  },
+  {
+    "Index": 600,
+    "Name": "Кнопка из полированного чернита",
+    "Id": "polished_blackstone_button",
+    "Icon": 565
+  },
+  {
+    "Index": 601,
+    "Name": "Дубовая кнопка",
+    "Id": "oak_button",
+    "Icon": 566
+  },
+  {
+    "Index": 602,
+    "Name": "Еловая кнопка",
+    "Id": "spruce_button",
+    "Icon": 567
+  },
+  {
+    "Index": 603,
+    "Name": "Берёзовая кнопка",
+    "Id": "birch_button",
+    "Icon": 568
+  },
+  {
+    "Index": 604,
+    "Name": "Кнопка из тропического дерева",
+    "Id": "jungle_button",
+    "Icon": 569
+  },
+  {
+    "Index": 605,
+    "Name": "Акациевая кнопка",
+    "Id": "acacia_button",
+    "Icon": 570
+  },
+  {
+    "Index": 606,
+    "Name": "Кнопка из тёмного дуба",
+    "Id": "dark_oak_button",
+    "Icon": 571
+  },
+  {
+    "Index": 607,
+    "Name": "Багровая кнопка",
+    "Id": "crimson_button",
+    "Icon": 572
+  },
+  {
+    "Index": 608,
+    "Name": "Искажённая кнопка",
+    "Id": "warped_button",
+    "Icon": 573
+  },
+  {
+    "Index": 609,
+    "Name": "Каменная нажимная плита",
+    "Id": "stone_pressure_plate",
+    "Icon": 574
+  },
+  {
+    "Index": 610,
+    "Name": "Нажимная плита из полированного чернита",
+    "Id": "polished_blackstone_pressure_plate",
+    "Icon": 575
+  },
+  {
+    "Index": 611,
+    "Name": "Весовая пластина",
+    "Id": "light_weighted_pressure_plate",
+    "Icon": 576
+  },
+  {
+    "Index": 612,
+    "Name": "Большегрузная весовая пластина",
+    "Id": "heavy_weighted_pressure_plate",
+    "Icon": 577
+  },
+  {
+    "Index": 613,
+    "Name": "Дубовая нажимная плита",
+    "Id": "oak_pressure_plate",
+    "Icon": 578
+  },
+  {
+    "Index": 614,
+    "Name": "Еловая нажимная плита",
+    "Id": "spruce_pressure_plate",
+    "Icon": 579
+  },
+  {
+    "Index": 615,
+    "Name": "Берёзовая нажимная плита",
+    "Id": "birch_pressure_plate",
+    "Icon": 580
+  },
+  {
+    "Index": 616,
+    "Name": "Нажимная плита из тропического дерева",
+    "Id": "jungle_pressure_plate",
+    "Icon": 581
+  },
+  {
+    "Index": 617,
+    "Name": "Акациевая нажимная плита",
+    "Id": "acacia_pressure_plate",
+    "Icon": 582
+  },
+  {
+    "Index": 618,
+    "Name": "Нажимная плита из тёмного дуба",
+    "Id": "dark_oak_pressure_plate",
+    "Icon": 583
+  },
+  {
+    "Index": 619,
+    "Name": "Багровая нажимная плита",
+    "Id": "crimson_pressure_plate",
+    "Icon": 584
+  },
+  {
+    "Index": 620,
+    "Name": "Искажённая нажимная плита",
+    "Id": "warped_pressure_plate",
+    "Icon": 585
+  },
+  {
+    "Index": 621,
+    "Name": "Железная дверь",
+    "Id": "iron_door",
+    "Icon": 586
+  },
+  {
+    "Index": 622,
+    "Name": "Дубовая дверь",
+    "Id": "oak_door",
+    "Icon": 587
+  },
+  {
+    "Index": 623,
+    "Name": "Еловая дверь",
+    "Id": "spruce_door",
+    "Icon": 588
+  },
+  {
+    "Index": 624,
+    "Name": "Берёзовая дверь",
+    "Id": "birch_door",
+    "Icon": 589
+  },
+  {
+    "Index": 625,
+    "Name": "Дверь из тропического дерева",
+    "Id": "jungle_door",
+    "Icon": 590
+  },
+  {
+    "Index": 626,
+    "Name": "Акациевая дверь",
+    "Id": "acacia_door",
+    "Icon": 591
+  },
+  {
+    "Index": 627,
+    "Name": "Дверь из тёмного дуба",
+    "Id": "dark_oak_door",
+    "Icon": 592
+  },
+  {
+    "Index": 628,
+    "Name": "Багровая дверь",
+    "Id": "crimson_door",
+    "Icon": 593
+  },
+  {
+    "Index": 629,
+    "Name": "Искажённая дверь",
+    "Id": "warped_door",
+    "Icon": 594
+  },
+  {
+    "Index": 630,
+    "Name": "Железный люк",
+    "Id": "iron_trapdoor",
+    "Icon": 595
+  },
+  {
+    "Index": 631,
+    "Name": "Дубовый люк",
+    "Id": "oak_trapdoor",
+    "Icon": 596
+  },
+  {
+    "Index": 632,
+    "Name": "Еловый люк",
+    "Id": "spruce_trapdoor",
+    "Icon": 597
+  },
+  {
+    "Index": 633,
+    "Name": "Берёзовый люк",
+    "Id": "birch_trapdoor",
+    "Icon": 598
+  },
+  {
+    "Index": 634,
+    "Name": "Люк из тропического дерева",
+    "Id": "jungle_trapdoor",
+    "Icon": 599
+  },
+  {
+    "Index": 635,
+    "Name": "Акациевый люк",
+    "Id": "acacia_trapdoor",
+    "Icon": 600
+  },
+  {
+    "Index": 636,
+    "Name": "Люк из тёмного дуба",
+    "Id": "dark_oak_trapdoor",
+    "Icon": 601
+  },
+  {
+    "Index": 637,
+    "Name": "Багровый люк",
+    "Id": "crimson_trapdoor",
+    "Icon": 602
+  },
+  {
+    "Index": 638,
+    "Name": "Искажённый люк",
+    "Id": "warped_trapdoor",
+    "Icon": 603
+  },
+  {
+    "Index": 639,
+    "Name": "Дубовая калитка",
+    "Id": "oak_fence_gate",
+    "Icon": 604
+  },
+  {
+    "Index": 640,
+    "Name": "Еловая калитка",
+    "Id": "spruce_fence_gate",
+    "Icon": 605
+  },
+  {
+    "Index": 641,
+    "Name": "Берёзовая калитка",
+    "Id": "birch_fence_gate",
+    "Icon": 606
+  },
+  {
+    "Index": 642,
+    "Name": "Калитка из тропического дерева",
+    "Id": "jungle_fence_gate",
+    "Icon": 607
+  },
+  {
+    "Index": 643,
+    "Name": "Акациевая калитка",
+    "Id": "acacia_fence_gate",
+    "Icon": 608
+  },
+  {
+    "Index": 644,
+    "Name": "Калитка из тёмного дуба",
+    "Id": "dark_oak_fence_gate",
+    "Icon": 609
+  },
+  {
+    "Index": 645,
+    "Name": "Багровая калитка",
+    "Id": "crimson_fence_gate",
+    "Icon": 610
+  },
+  {
+    "Index": 646,
+    "Name": "Искажённая калитка",
+    "Id": "warped_fence_gate",
+    "Icon": 611
+  },
+  {
+    "Index": 647,
+    "Name": "Энергорельсы",
+    "Id": "powered_rail",
+    "Icon": 97
+  },
+  {
+    "Index": 648,
+    "Name": "Рельсы с датчиком",
+    "Id": "detector_rail",
+    "Icon": 98
+  },
+  {
+    "Index": 649,
+    "Name": "Рельсы",
+    "Id": "rail",
+    "Icon": 204
+  },
+  {
+    "Index": 650,
+    "Name": "Активирующие рельсы",
+    "Id": "activator_rail",
+    "Icon": 312
+  },
+  {
+    "Index": 651,
+    "Name": "Седло",
+    "Id": "saddle",
+    "Icon": 710
+  },
+  {
+    "Index": 652,
+    "Name": "Вагонетка",
+    "Id": "minecart",
+    "Icon": 709
+  },
+  {
+    "Index": 653,
+    "Name": "Грузовая вагонетка",
+    "Id": "chest_minecart",
+    "Icon": 726
+  },
+  {
+    "Index": 654,
+    "Name": "Самоходная вагонетка",
+    "Id": "furnace_minecart",
+    "Icon": 727
+  },
+  {
+    "Index": 655,
+    "Name": "Вагонетка с динамитом",
+    "Id": "tnt_minecart",
+    "Icon": 916
+  },
+  {
+    "Index": 656,
+    "Name": "Загрузочная вагонетка",
+    "Id": "hopper_minecart",
+    "Icon": 917
+  },
+  {
+    "Index": 657,
+    "Name": "Удочка с морковкой",
+    "Id": "carrot_on_a_stick",
+    "Icon": 906
+  },
+  {
+    "Index": 658,
+    "Name": "Удочка с искажённым грибом",
+    "Id": "warped_fungus_on_a_stick",
+    "Icon": 907
+  },
+  {
+    "Index": 659,
+    "Name": "Элитры",
+    "Id": "elytra",
+    "Icon": 964
+  },
+  {
+    "Index": 660,
+    "Name": "Дубовая лодка",
+    "Id": "oak_boat",
+    "Icon": 712
+  },
+  {
+    "Index": 661,
+    "Name": "Еловая лодка",
+    "Id": "spruce_boat",
+    "Icon": 965
+  },
+  {
+    "Index": 662,
+    "Name": "Берёзовая лодка",
+    "Id": "birch_boat",
+    "Icon": 966
+  },
+  {
+    "Index": 663,
+    "Name": "Лодка из тропического дерева",
+    "Id": "jungle_boat",
+    "Icon": 967
+  },
+  {
+    "Index": 664,
+    "Name": "Акациевая лодка",
+    "Id": "acacia_boat",
+    "Icon": 968
+  },
+  {
+    "Index": 665,
+    "Name": "Лодка из тёмного дуба",
+    "Id": "dark_oak_boat",
+    "Icon": 969
+  },
+  {
+    "Index": 666,
+    "Name": "Черепаший панцирь",
+    "Id": "turtle_helmet",
+    "Icon": 612
+  },
+  {
+    "Index": 667,
+    "Name": "Щиток",
+    "Id": "scute",
+    "Icon": 613
+  },
+  {
+    "Index": 668,
+    "Name": "Огниво",
+    "Id": "flint_and_steel",
+    "Icon": 614
+  },
+  {
+    "Index": 669,
+    "Name": "Яблоко",
+    "Id": "apple",
+    "Icon": 615
+  },
+  {
+    "Index": 670,
+    "Name": "Лук",
+    "Id": "bow",
+    "Icon": 616
+  },
+  {
+    "Index": 671,
+    "Name": "Стрела",
+    "Id": "arrow",
+    "Icon": 617
+  },
+  {
+    "Index": 672,
+    "Name": "Уголь",
+    "Id": "coal",
+    "Icon": 618
+  },
+  {
+    "Index": 673,
+    "Name": "Древесный уголь",
+    "Id": "charcoal",
+    "Icon": 619
+  },
+  {
+    "Index": 674,
+    "Name": "Алмаз",
+    "Id": "diamond",
+    "Icon": 620
+  },
+  {
+    "Index": 675,
+    "Name": "Изумруд",
+    "Id": "emerald",
+    "Icon": 890
+  },
+  {
+    "Index": 676,
+    "Name": "Лазурит",
+    "Id": "lapis_lazuli",
+    "Icon": 743
+  },
+  {
+    "Index": 677,
+    "Name": "Незер-кварц",
+    "Id": "quartz",
+    "Icon": 915
+  },
+  {
+    "Index": 678,
+    "Name": "Осколок аметиста",
+    "Id": "amethyst_shard",
+    "Icon": 1054
+  },
+  {
+    "Index": 679,
+    "Name": "Рудное железо",
+    "Id": "raw_iron",
+    "Icon": 621
+  },
+  {
+    "Index": 680,
+    "Name": "Железный слиток",
+    "Id": "iron_ingot",
+    "Icon": 622
+  },
+  {
+    "Index": 681,
+    "Name": "Рудная медь",
+    "Id": "raw_copper",
+    "Icon": 623
+  },
+  {
+    "Index": 682,
+    "Name": "Медный слиток",
+    "Id": "copper_ingot",
+    "Icon": 624
+  },
+  {
+    "Index": 683,
+    "Name": "Рудное золото",
+    "Id": "raw_gold",
+    "Icon": 625
+  },
+  {
+    "Index": 684,
+    "Name": "Золотой слиток",
+    "Id": "gold_ingot",
+    "Icon": 626
+  },
+  {
+    "Index": 685,
+    "Name": "Незеритовый слиток",
+    "Id": "netherite_ingot",
+    "Icon": 627
+  },
+  {
+    "Index": 686,
+    "Name": "Незеритовый лом",
+    "Id": "netherite_scrap",
+    "Icon": 628
+  },
+  {
+    "Index": 687,
+    "Name": "Деревянный меч",
+    "Id": "wooden_sword",
+    "Icon": 629
+  },
+  {
+    "Index": 688,
+    "Name": "Деревянная лопата",
+    "Id": "wooden_shovel",
+    "Icon": 630
+  },
+  {
+    "Index": 689,
+    "Name": "Деревянная кирка",
+    "Id": "wooden_pickaxe",
+    "Icon": 631
+  },
+  {
+    "Index": 690,
+    "Name": "Деревянный топор",
+    "Id": "wooden_axe",
+    "Icon": 632
+  },
+  {
+    "Index": 691,
+    "Name": "Деревянная мотыга",
+    "Id": "wooden_hoe",
+    "Icon": 633
+  },
+  {
+    "Index": 692,
+    "Name": "Каменный меч",
+    "Id": "stone_sword",
+    "Icon": 634
+  },
+  {
+    "Index": 693,
+    "Name": "Каменная лопата",
+    "Id": "stone_shovel",
+    "Icon": 635
+  },
+  {
+    "Index": 694,
+    "Name": "Каменная кирка",
+    "Id": "stone_pickaxe",
+    "Icon": 636
+  },
+  {
+    "Index": 695,
+    "Name": "Каменный топор",
+    "Id": "stone_axe",
+    "Icon": 637
+  },
+  {
+    "Index": 696,
+    "Name": "Каменная мотыга",
+    "Id": "stone_hoe",
+    "Icon": 638
+  },
+  {
+    "Index": 697,
+    "Name": "Золотой меч",
+    "Id": "golden_sword",
+    "Icon": 639
+  },
+  {
+    "Index": 698,
+    "Name": "Золотая лопата",
+    "Id": "golden_shovel",
+    "Icon": 640
+  },
+  {
+    "Index": 699,
+    "Name": "Золотая кирка",
+    "Id": "golden_pickaxe",
+    "Icon": 641
+  },
+  {
+    "Index": 700,
+    "Name": "Золотой топор",
+    "Id": "golden_axe",
+    "Icon": 642
+  },
+  {
+    "Index": 701,
+    "Name": "Золотая мотыга",
+    "Id": "golden_hoe",
+    "Icon": 643
+  },
+  {
+    "Index": 702,
+    "Name": "Железный меч",
+    "Id": "iron_sword",
+    "Icon": 644
+  },
+  {
+    "Index": 703,
+    "Name": "Железная лопата",
+    "Id": "iron_shovel",
+    "Icon": 645
+  },
+  {
+    "Index": 704,
+    "Name": "Железная кирка",
+    "Id": "iron_pickaxe",
+    "Icon": 646
+  },
+  {
+    "Index": 705,
+    "Name": "Железный топор",
+    "Id": "iron_axe",
+    "Icon": 647
+  },
+  {
+    "Index": 706,
+    "Name": "Железная мотыга",
+    "Id": "iron_hoe",
+    "Icon": 648
+  },
+  {
+    "Index": 707,
+    "Name": "Алмазный меч",
+    "Id": "diamond_sword",
+    "Icon": 649
+  },
+  {
+    "Index": 708,
+    "Name": "Алмазная лопата",
+    "Id": "diamond_shovel",
+    "Icon": 650
+  },
+  {
+    "Index": 709,
+    "Name": "Алмазная кирка",
+    "Id": "diamond_pickaxe",
+    "Icon": 651
+  },
+  {
+    "Index": 710,
+    "Name": "Алмазный топор",
+    "Id": "diamond_axe",
+    "Icon": 652
+  },
+  {
+    "Index": 711,
+    "Name": "Алмазная мотыга",
+    "Id": "diamond_hoe",
+    "Icon": 653
+  },
+  {
+    "Index": 712,
+    "Name": "Незеритовый меч",
+    "Id": "netherite_sword",
+    "Icon": 654
+  },
+  {
+    "Index": 713,
+    "Name": "Незеритовая лопата",
+    "Id": "netherite_shovel",
+    "Icon": 655
+  },
+  {
+    "Index": 714,
+    "Name": "Незеритовая кирка",
+    "Id": "netherite_pickaxe",
+    "Icon": 656
+  },
+  {
+    "Index": 715,
+    "Name": "Незеритовый топор",
+    "Id": "netherite_axe",
+    "Icon": 657
+  },
+  {
+    "Index": 716,
+    "Name": "Незеритовая мотыга",
+    "Id": "netherite_hoe",
+    "Icon": 658
+  },
+  {
+    "Index": 717,
+    "Name": "Палка",
+    "Id": "stick",
+    "Icon": 659
+  },
+  {
+    "Index": 718,
+    "Name": "Миска",
+    "Id": "bowl",
+    "Icon": 660
+  },
+  {
+    "Index": 719,
+    "Name": "Тушёные грибы",
+    "Id": "mushroom_stew",
+    "Icon": 661
+  },
+  {
+    "Index": 720,
+    "Name": "Нить",
+    "Id": "string",
+    "Icon": 662
+  },
+  {
+    "Index": 721,
+    "Name": "Перо",
+    "Id": "feather",
+    "Icon": 663
+  },
+  {
+    "Index": 722,
+    "Name": "Порох",
+    "Id": "gunpowder",
+    "Icon": 664
+  },
+  {
+    "Index": 723,
+    "Name": "Семена пшеницы",
+    "Id": "wheat_seeds",
+    "Icon": 665
+  },
+  {
+    "Index": 724,
+    "Name": "Пшеница",
+    "Id": "wheat",
+    "Icon": 666
+  },
+  {
+    "Index": 725,
+    "Name": "Хлеб",
+    "Id": "bread",
+    "Icon": 667
+  },
+  {
+    "Index": 726,
+    "Name": "Кожаный шлем",
+    "Id": "leather_helmet",
+    "Icon": 668
+  },
+  {
+    "Index": 727,
+    "Name": "Кожаная куртка",
+    "Id": "leather_chestplate",
+    "Icon": 669
+  },
+  {
+    "Index": 728,
+    "Name": "Кожаные штаны",
+    "Id": "leather_leggings",
+    "Icon": 670
+  },
+  {
+    "Index": 729,
+    "Name": "Кожаные ботинки",
+    "Id": "leather_boots",
+    "Icon": 671
+  },
+  {
+    "Index": 730,
+    "Name": "Койф",
+    "Id": "chainmail_helmet",
+    "Icon": 672
+  },
+  {
+    "Index": 731,
+    "Name": "Кольчуга",
+    "Id": "chainmail_chestplate",
+    "Icon": 673
+  },
+  {
+    "Index": 732,
+    "Name": "Кольчужные поножи",
+    "Id": "chainmail_leggings",
+    "Icon": 674
+  },
+  {
+    "Index": 733,
+    "Name": "Кольчужные ботинки",
+    "Id": "chainmail_boots",
+    "Icon": 675
+  },
+  {
+    "Index": 734,
+    "Name": "Железный шлем",
+    "Id": "iron_helmet",
+    "Icon": 676
+  },
+  {
+    "Index": 735,
+    "Name": "Железный нагрудник",
+    "Id": "iron_chestplate",
+    "Icon": 677
+  },
+  {
+    "Index": 736,
+    "Name": "Железные поножи",
+    "Id": "iron_leggings",
+    "Icon": 678
+  },
+  {
+    "Index": 737,
+    "Name": "Железные ботинки",
+    "Id": "iron_boots",
+    "Icon": 679
+  },
+  {
+    "Index": 738,
+    "Name": "Алмазный шлем",
+    "Id": "diamond_helmet",
+    "Icon": 680
+  },
+  {
+    "Index": 739,
+    "Name": "Алмазный нагрудник",
+    "Id": "diamond_chestplate",
+    "Icon": 681
+  },
+  {
+    "Index": 740,
+    "Name": "Алмазные поножи",
+    "Id": "diamond_leggings",
+    "Icon": 682
+  },
+  {
+    "Index": 741,
+    "Name": "Алмазные ботинки",
+    "Id": "diamond_boots",
+    "Icon": 683
+  },
+  {
+    "Index": 742,
+    "Name": "Золотой шлем",
+    "Id": "golden_helmet",
+    "Icon": 684
+  },
+  {
+    "Index": 743,
+    "Name": "Золотой нагрудник",
+    "Id": "golden_chestplate",
+    "Icon": 685
+  },
+  {
+    "Index": 744,
+    "Name": "Золотые поножи",
+    "Id": "golden_leggings",
+    "Icon": 686
+  },
+  {
+    "Index": 745,
+    "Name": "Золотые ботинки",
+    "Id": "golden_boots",
+    "Icon": 687
+  },
+  {
+    "Index": 746,
+    "Name": "Незеритовый шлем",
+    "Id": "netherite_helmet",
+    "Icon": 688
+  },
+  {
+    "Index": 747,
+    "Name": "Незеритовый нагрудник",
+    "Id": "netherite_chestplate",
+    "Icon": 689
+  },
+  {
+    "Index": 748,
+    "Name": "Незеритовые поножи",
+    "Id": "netherite_leggings",
+    "Icon": 690
+  },
+  {
+    "Index": 749,
+    "Name": "Незеритовые ботинки",
+    "Id": "netherite_boots",
+    "Icon": 691
+  },
+  {
+    "Index": 750,
+    "Name": "Кремень",
+    "Id": "flint",
+    "Icon": 692
+  },
+  {
+    "Index": 751,
+    "Name": "Сырая свинина",
+    "Id": "porkchop",
+    "Icon": 693
+  },
+  {
+    "Index": 752,
+    "Name": "Жареная свинина",
+    "Id": "cooked_porkchop",
+    "Icon": 694
+  },
+  {
+    "Index": 753,
+    "Name": "Картина",
+    "Id": "painting",
+    "Icon": 695
+  },
+  {
+    "Index": 754,
+    "Name": "Золотое яблоко",
+    "Id": "golden_apple",
+    "Icon": 696
+  },
+  {
+    "Index": 755,
+    "Name": "Зачарованное золотое яблоко",
+    "Id": "enchanted_golden_apple",
+    "Icon": 697
+  },
+  {
+    "Index": 756,
+    "Name": "Дубовая табличка",
+    "Id": "oak_sign",
+    "Icon": 698
+  },
+  {
+    "Index": 757,
+    "Name": "Еловая табличка",
+    "Id": "spruce_sign",
+    "Icon": 699
+  },
+  {
+    "Index": 758,
+    "Name": "Берёзовая табличка",
+    "Id": "birch_sign",
+    "Icon": 700
+  },
+  {
+    "Index": 759,
+    "Name": "Табличка из тропического дерева",
+    "Id": "jungle_sign",
+    "Icon": 701
+  },
+  {
+    "Index": 760,
+    "Name": "Акациевая табличка",
+    "Id": "acacia_sign",
+    "Icon": 702
+  },
+  {
+    "Index": 761,
+    "Name": "Табличка из тёмного дуба",
+    "Id": "dark_oak_sign",
+    "Icon": 703
+  },
+  {
+    "Index": 762,
+    "Name": "Багровая табличка",
+    "Id": "crimson_sign",
+    "Icon": 704
+  },
+  {
+    "Index": 763,
+    "Name": "Искажённая табличка",
+    "Id": "warped_sign",
+    "Icon": 705
+  },
+  {
+    "Index": 764,
+    "Name": "Ведро",
+    "Id": "bucket",
+    "Icon": 706
+  },
+  {
+    "Index": 765,
+    "Name": "Ведро воды",
+    "Id": "water_bucket",
+    "Icon": 707
+  },
+  {
+    "Index": 766,
+    "Name": "Ведро лавы",
+    "Id": "lava_bucket",
+    "Icon": 708
+  },
+  {
+    "Index": 767,
+    "Name": "Ведро с рыхлым снегом",
+    "Id": "powder_snow_bucket",
+    "Icon": 1094
+  },
+  {
+    "Index": 768,
+    "Name": "Снежок",
+    "Id": "snowball",
+    "Icon": 711
+  },
+  {
+    "Index": 769,
+    "Name": "Кожа",
+    "Id": "leather",
+    "Icon": 713
+  },
+  {
+    "Index": 770,
+    "Name": "Ведро молока",
+    "Id": "milk_bucket",
+    "Icon": 714
+  },
+  {
+    "Index": 771,
+    "Name": "Иглобрюх в ведре",
+    "Id": "pufferfish_bucket",
+    "Icon": 715
+  },
+  {
+    "Index": 772,
+    "Name": "Лосось в ведре",
+    "Id": "salmon_bucket",
+    "Icon": 716
+  },
+  {
+    "Index": 773,
+    "Name": "Треска в ведре",
+    "Id": "cod_bucket",
+    "Icon": 717
+  },
+  {
+    "Index": 774,
+    "Name": "Тропическая рыба в ведре",
+    "Id": "tropical_fish_bucket",
+    "Icon": 718
+  },
+  {
+    "Index": 775,
+    "Name": "Аксолотль в ведре",
+    "Id": "axolotl_bucket",
+    "Icon": 719
+  },
+  {
+    "Index": 776,
+    "Name": "Кирпич",
+    "Id": "brick",
+    "Icon": 720
+  },
+  {
+    "Index": 777,
+    "Name": "Комок глины",
+    "Id": "clay_ball",
+    "Icon": 721
+  },
+  {
+    "Index": 778,
+    "Name": "Блок сушёной ламинарии",
+    "Id": "dried_kelp_block",
+    "Icon": 722
+  },
+  {
+    "Index": 779,
+    "Name": "Бумага",
+    "Id": "paper",
+    "Icon": 723
+  },
+  {
+    "Index": 780,
+    "Name": "Книга",
+    "Id": "book",
+    "Icon": 724
+  },
+  {
+    "Index": 781,
+    "Name": "Сгусток слизи",
+    "Id": "slime_ball",
+    "Icon": 725
+  },
+  {
+    "Index": 782,
+    "Name": "Яйцо",
+    "Id": "egg",
+    "Icon": 728
+  },
+  {
+    "Index": 783,
+    "Name": "Компас",
+    "Id": "compass",
+    "Icon": 729
+  },
+  {
+    "Index": 784,
+    "Name": "Удочка",
+    "Id": "fishing_rod",
+    "Icon": 731
+  },
+  {
+    "Index": 785,
+    "Name": "Часы",
+    "Id": "clock",
+    "Icon": 732
+  },
+  {
+    "Index": 786,
+    "Name": "Подзорная труба",
+    "Id": "spyglass",
+    "Icon": 1061
+  },
+  {
+    "Index": 787,
+    "Name": "Светокаменная пыль",
+    "Id": "glowstone_dust",
+    "Icon": 733
+  },
+  {
+    "Index": 788,
+    "Name": "Сырая треска",
+    "Id": "cod",
+    "Icon": 734
+  },
+  {
+    "Index": 789,
+    "Name": "Сырой лосось",
+    "Id": "salmon",
+    "Icon": 735
+  },
+  {
+    "Index": 790,
+    "Name": "Тропическая рыба",
+    "Id": "tropical_fish",
+    "Icon": 736
+  },
+  {
+    "Index": 791,
+    "Name": "Иглобрюх",
+    "Id": "pufferfish",
+    "Icon": 737
+  },
+  {
+    "Index": 792,
+    "Name": "Жареная треска",
+    "Id": "cooked_cod",
+    "Icon": 738
+  },
+  {
+    "Index": 793,
+    "Name": "Жареный лосось",
+    "Id": "cooked_salmon",
+    "Icon": 739
+  },
+  {
+    "Index": 794,
+    "Name": "Чернильный мешок",
+    "Id": "ink_sac",
+    "Icon": 740
+  },
+  {
+    "Index": 795,
+    "Name": "Светящийся чернильный мешок",
+    "Id": "glow_ink_sac",
+    "Icon": 741
+  },
+  {
+    "Index": 796,
+    "Name": "Какао-бобы",
+    "Id": "cocoa_beans",
+    "Icon": 742
+  },
+  {
+    "Index": 797,
+    "Name": "Белый краситель",
+    "Id": "white_dye",
+    "Icon": 744
+  },
+  {
+    "Index": 798,
+    "Name": "Оранжевый краситель",
+    "Id": "orange_dye",
+    "Icon": 745
+  },
+  {
+    "Index": 799,
+    "Name": "Пурпурный краситель",
+    "Id": "magenta_dye",
+    "Icon": 746
+  },
+  {
+    "Index": 800,
+    "Name": "Голубой краситель",
+    "Id": "light_blue_dye",
+    "Icon": 747
+  },
+  {
+    "Index": 801,
+    "Name": "Жёлтый краситель",
+    "Id": "yellow_dye",
+    "Icon": 748
+  },
+  {
+    "Index": 802,
+    "Name": "Лаймовый краситель",
+    "Id": "lime_dye",
+    "Icon": 749
+  },
+  {
+    "Index": 803,
+    "Name": "Розовый краситель",
+    "Id": "pink_dye",
+    "Icon": 750
+  },
+  {
+    "Index": 804,
+    "Name": "Серый краситель",
+    "Id": "gray_dye",
+    "Icon": 751
+  },
+  {
+    "Index": 805,
+    "Name": "Светло-серый краситель",
+    "Id": "light_gray_dye",
+    "Icon": 752
+  },
+  {
+    "Index": 806,
+    "Name": "Бирюзовый краситель",
+    "Id": "cyan_dye",
+    "Icon": 753
+  },
+  {
+    "Index": 807,
+    "Name": "Фиолетовый краситель",
+    "Id": "purple_dye",
+    "Icon": 754
+  },
+  {
+    "Index": 808,
+    "Name": "Синий краситель",
+    "Id": "blue_dye",
+    "Icon": 755
+  },
+  {
+    "Index": 809,
+    "Name": "Коричневый краситель",
+    "Id": "brown_dye",
+    "Icon": 756
+  },
+  {
+    "Index": 810,
+    "Name": "Зелёный краситель",
+    "Id": "green_dye",
+    "Icon": 757
+  },
+  {
+    "Index": 811,
+    "Name": "Красный краситель",
+    "Id": "red_dye",
+    "Icon": 758
+  },
+  {
+    "Index": 812,
+    "Name": "Чёрный краситель",
+    "Id": "black_dye",
+    "Icon": 759
+  },
+  {
+    "Index": 813,
+    "Name": "Костная мука",
+    "Id": "bone_meal",
+    "Icon": 760
+  },
+  {
+    "Index": 814,
+    "Name": "Кость",
+    "Id": "bone",
+    "Icon": 761
+  },
+  {
+    "Index": 815,
+    "Name": "Сахар",
+    "Id": "sugar",
+    "Icon": 762
+  },
+  {
+    "Index": 816,
+    "Name": "Торт",
+    "Id": "cake",
+    "Icon": 763
+  },
+  {
+    "Index": 817,
+    "Name": "Белая кровать",
+    "Id": "white_bed",
+    "Icon": 764
+  },
+  {
+    "Index": 818,
+    "Name": "Оранжевая кровать",
+    "Id": "orange_bed",
+    "Icon": 765
+  },
+  {
+    "Index": 819,
+    "Name": "Пурпурная кровать",
+    "Id": "magenta_bed",
+    "Icon": 766
+  },
+  {
+    "Index": 820,
+    "Name": "Голубая кровать",
+    "Id": "light_blue_bed",
+    "Icon": 767
+  },
+  {
+    "Index": 821,
+    "Name": "Желтая кровать",
+    "Id": "yellow_bed",
+    "Icon": 768
+  },
+  {
+    "Index": 822,
+    "Name": "Лаймовая кровать",
+    "Id": "lime_bed",
+    "Icon": 769
+  },
+  {
+    "Index": 823,
+    "Name": "Розовая кровать",
+    "Id": "pink_bed",
+    "Icon": 770
+  },
+  {
+    "Index": 824,
+    "Name": "Серая кровать",
+    "Id": "gray_bed",
+    "Icon": 771
+  },
+  {
+    "Index": 825,
+    "Name": "Светло-серая кровать",
+    "Id": "light_gray_bed",
+    "Icon": 772
+  },
+  {
+    "Index": 826,
+    "Name": "Бирюзовая кровать",
+    "Id": "cyan_bed",
+    "Icon": 773
+  },
+  {
+    "Index": 827,
+    "Name": "Фиолетовая кровать",
+    "Id": "purple_bed",
+    "Icon": 774
+  },
+  {
+    "Index": 828,
+    "Name": "Синяя кровать",
+    "Id": "blue_bed",
+    "Icon": 775
+  },
+  {
+    "Index": 829,
+    "Name": "Коричневая кровать",
+    "Id": "brown_bed",
+    "Icon": 776
+  },
+  {
+    "Index": 830,
+    "Name": "Зеленая кровать",
+    "Id": "green_bed",
+    "Icon": 777
+  },
+  {
+    "Index": 831,
+    "Name": "Красная кровать",
+    "Id": "red_bed",
+    "Icon": 778
+  },
+  {
+    "Index": 832,
+    "Name": "Черная кровать",
+    "Id": "black_bed",
+    "Icon": 779
+  },
+  {
+    "Index": 833,
+    "Name": "Печенье",
+    "Id": "cookie",
+    "Icon": 780
+  },
+  {
+    "Index": 834,
+    "Name": "Ножницы",
+    "Id": "shears",
+    "Icon": 781
+  },
+  {
+    "Index": 835,
+    "Name": "Ломтик арбуза",
+    "Id": "melon_slice",
+    "Icon": 782
+  },
+  {
+    "Index": 836,
+    "Name": "Сушёная ламинария",
+    "Id": "dried_kelp",
+    "Icon": 783
+  },
+  {
+    "Index": 837,
+    "Name": "Семена тыквы",
+    "Id": "pumpkin_seeds",
+    "Icon": 784
+  },
+  {
+    "Index": 838,
+    "Name": "Семена арбуза",
+    "Id": "melon_seeds",
+    "Icon": 785
+  },
+  {
+    "Index": 839,
+    "Name": "Сырая говядина",
+    "Id": "beef",
+    "Icon": 786
+  },
+  {
+    "Index": 840,
+    "Name": "Стейк",
+    "Id": "cooked_beef",
+    "Icon": 787
+  },
+  {
+    "Index": 841,
+    "Name": "Курятина",
+    "Id": "chicken",
+    "Icon": 788
+  },
+  {
+    "Index": 842,
+    "Name": "Жареная курятина",
+    "Id": "cooked_chicken",
+    "Icon": 789
+  },
+  {
+    "Index": 843,
+    "Name": "Гнилая плоть",
+    "Id": "rotten_flesh",
+    "Icon": 790
+  },
+  {
+    "Index": 844,
+    "Name": "Эндер-жемчуг",
+    "Id": "ender_pearl",
+    "Icon": 791
+  },
+  {
+    "Index": 845,
+    "Name": "Огненный стержень",
+    "Id": "blaze_rod",
+    "Icon": 792
+  },
+  {
+    "Index": 846,
+    "Name": "Слеза гаста",
+    "Id": "ghast_tear",
+    "Icon": 793
+  },
+  {
+    "Index": 847,
+    "Name": "Кусочек золота",
+    "Id": "gold_nugget",
+    "Icon": 794
+  },
+  {
+    "Index": 848,
+    "Name": "Незерский нарост",
+    "Id": "nether_wart",
+    "Icon": 795
+  },
+  {
+    "Index": 849,
+    "Name": "Бутылочка воды",
+    "Id": "potion{Potion:water}",
+    "Icon": 796
+  },
+  {
+    "Index": 850,
+    "Name": "Бутылочка",
+    "Id": "glass_bottle",
+    "Icon": 811
+  },
+  {
+    "Index": 851,
+    "Name": "Паучий глаз",
+    "Id": "spider_eye",
+    "Icon": 812
+  },
+  {
+    "Index": 852,
+    "Name": "Маринованный паучий глаз",
+    "Id": "fermented_spider_eye",
+    "Icon": 813
+  },
+  {
+    "Index": 853,
+    "Name": "Огненный порошок",
+    "Id": "blaze_powder",
+    "Icon": 814
+  },
+  {
+    "Index": 854,
+    "Name": "Сгусток магмы",
+    "Id": "magma_cream",
+    "Icon": 815
+  },
+  {
+    "Index": 855,
+    "Name": "Зельеварка",
+    "Id": "brewing_stand",
+    "Icon": 816
+  },
+  {
+    "Index": 856,
+    "Name": "Котёл",
+    "Id": "cauldron",
+    "Icon": 817
+  },
+  {
+    "Index": 857,
+    "Name": "Око Эндера",
+    "Id": "ender_eye",
+    "Icon": 818
+  },
+  {
+    "Index": 858,
+    "Name": "Сверкающий ломтик арбуза",
+    "Id": "glistering_melon_slice",
+    "Icon": 819
+  },
+  {
+    "Index": 859,
+    "Name": "Яйцо призыва аксолотля",
+    "Id": "axolotl_spawn_egg",
+    "Icon": 820
+  },
+  {
+    "Index": 860,
+    "Name": "Яйцо призыва летучей мыши",
+    "Id": "bat_spawn_egg",
+    "Icon": 821
+  },
+  {
+    "Index": 861,
+    "Name": "Яйцо призыва пчелы",
+    "Id": "bee_spawn_egg",
+    "Icon": 822
+  },
+  {
+    "Index": 862,
+    "Name": "Яйцо призыва всполоха",
+    "Id": "blaze_spawn_egg",
+    "Icon": 823
+  },
+  {
+    "Index": 863,
+    "Name": "Яйцо призыва кошки",
+    "Id": "cat_spawn_egg",
+    "Icon": 824
+  },
+  {
+    "Index": 864,
+    "Name": "Яйцо призыва пещерного паука",
+    "Id": "cave_spider_spawn_egg",
+    "Icon": 825
+  },
+  {
+    "Index": 865,
+    "Name": "Яйцо призыва курицы",
+    "Id": "chicken_spawn_egg",
+    "Icon": 826
+  },
+  {
+    "Index": 866,
+    "Name": "Яйцо призыва трески",
+    "Id": "cod_spawn_egg",
+    "Icon": 827
+  },
+  {
+    "Index": 867,
+    "Name": "Яйцо призыва коровы",
+    "Id": "cow_spawn_egg",
+    "Icon": 828
+  },
+  {
+    "Index": 868,
+    "Name": "Яйцо призыва крипера",
+    "Id": "creeper_spawn_egg",
+    "Icon": 829
+  },
+  {
+    "Index": 869,
+    "Name": "Яйцо призыва дельфина",
+    "Id": "dolphin_spawn_egg",
+    "Icon": 830
+  },
+  {
+    "Index": 870,
+    "Name": "Яйцо призыва осла",
+    "Id": "donkey_spawn_egg",
+    "Icon": 831
+  },
+  {
+    "Index": 871,
+    "Name": "Яйцо призыва утопленника",
+    "Id": "drowned_spawn_egg",
+    "Icon": 832
+  },
+  {
+    "Index": 872,
+    "Name": "Яйцо призыва древнего стража",
+    "Id": "elder_guardian_spawn_egg",
+    "Icon": 833
+  },
+  {
+    "Index": 873,
+    "Name": "Яйцо призыва эндермена",
+    "Id": "enderman_spawn_egg",
+    "Icon": 834
+  },
+  {
+    "Index": 874,
+    "Name": "Яйцо призыва эндермита",
+    "Id": "endermite_spawn_egg",
+    "Icon": 835
+  },
+  {
+    "Index": 875,
+    "Name": "Яйцо призыва заклинателя",
+    "Id": "evoker_spawn_egg",
+    "Icon": 836
+  },
+  {
+    "Index": 876,
+    "Name": "Яйцо призыва лисицы",
+    "Id": "fox_spawn_egg",
+    "Icon": 837
+  },
+  {
+    "Index": 877,
+    "Name": "Яйцо призыва гаста",
+    "Id": "ghast_spawn_egg",
+    "Icon": 838
+  },
+  {
+    "Index": 878,
+    "Name": "Яйцо призыва светящегося спрута",
+    "Id": "glow_squid_spawn_egg",
+    "Icon": 839
+  },
+  {
+    "Index": 879,
+    "Name": "Яйцо призыва козы",
+    "Id": "goat_spawn_egg",
+    "Icon": 840
+  },
+  {
+    "Index": 880,
+    "Name": "Яйцо призыва стража",
+    "Id": "guardian_spawn_egg",
+    "Icon": 841
+  },
+  {
+    "Index": 881,
+    "Name": "Яйцо призыва хоглина",
+    "Id": "hoglin_spawn_egg",
+    "Icon": 842
+  },
+  {
+    "Index": 882,
+    "Name": "Яйцо призыва лошади",
+    "Id": "horse_spawn_egg",
+    "Icon": 843
+  },
+  {
+    "Index": 883,
+    "Name": "Яйцо призыва кадавра",
+    "Id": "husk_spawn_egg",
+    "Icon": 844
+  },
+  {
+    "Index": 884,
+    "Name": "Яйцо призыва ламы",
+    "Id": "llama_spawn_egg",
+    "Icon": 845
+  },
+  {
+    "Index": 885,
+    "Name": "Яйцо призыва магмового куба",
+    "Id": "magma_cube_spawn_egg",
+    "Icon": 846
+  },
+  {
+    "Index": 886,
+    "Name": "Яйцо призыва муухомора",
+    "Id": "mooshroom_spawn_egg",
+    "Icon": 847
+  },
+  {
+    "Index": 887,
+    "Name": "Яйцо призыва мула",
+    "Id": "mule_spawn_egg",
+    "Icon": 848
+  },
+  {
+    "Index": 888,
+    "Name": "Яйцо призыва оцелота",
+    "Id": "ocelot_spawn_egg",
+    "Icon": 849
+  },
+  {
+    "Index": 889,
+    "Name": "Яйцо призыва панды",
+    "Id": "panda_spawn_egg",
+    "Icon": 850
+  },
+  {
+    "Index": 890,
+    "Name": "Яйцо призыва попугая",
+    "Id": "parrot_spawn_egg",
+    "Icon": 851
+  },
+  {
+    "Index": 891,
+    "Name": "Яйцо призыва фантома",
+    "Id": "phantom_spawn_egg",
+    "Icon": 852
+  },
+  {
+    "Index": 892,
+    "Name": "Яйцо призыва свиньи",
+    "Id": "pig_spawn_egg",
+    "Icon": 853
+  },
+  {
+    "Index": 893,
+    "Name": "Яйцо призыва пиглина",
+    "Id": "piglin_spawn_egg",
+    "Icon": 854
+  },
+  {
+    "Index": 894,
+    "Name": "Яйцо призыва брутального пиглина",
+    "Id": "piglin_brute_spawn_egg",
+    "Icon": 855
+  },
+  {
+    "Index": 895,
+    "Name": "Яйцо призыва разбойника",
+    "Id": "pillager_spawn_egg",
+    "Icon": 856
+  },
+  {
+    "Index": 896,
+    "Name": "Яйцо призыва белого медведя",
+    "Id": "polar_bear_spawn_egg",
+    "Icon": 857
+  },
+  {
+    "Index": 897,
+    "Name": "Яйцо призыва иглобрюха",
+    "Id": "pufferfish_spawn_egg",
+    "Icon": 858
+  },
+  {
+    "Index": 898,
+    "Name": "Яйцо призыва кролика",
+    "Id": "rabbit_spawn_egg",
+    "Icon": 859
+  },
+  {
+    "Index": 899,
+    "Name": "Яйцо призыва разорителя",
+    "Id": "ravager_spawn_egg",
+    "Icon": 860
+  },
+  {
+    "Index": 900,
+    "Name": "Яйцо призыва лосося",
+    "Id": "salmon_spawn_egg",
+    "Icon": 861
+  },
+  {
+    "Index": 901,
+    "Name": "Яйцо призыва овцы",
+    "Id": "sheep_spawn_egg",
+    "Icon": 862
+  },
+  {
+    "Index": 902,
+    "Name": "Яйцо призыва шалкера",
+    "Id": "shulker_spawn_egg",
+    "Icon": 863
+  },
+  {
+    "Index": 903,
+    "Name": "Яйцо призыва чешуйницы",
+    "Id": "silverfish_spawn_egg",
+    "Icon": 864
+  },
+  {
+    "Index": 904,
+    "Name": "Яйцо призыва скелета",
+    "Id": "skeleton_spawn_egg",
+    "Icon": 865
+  },
+  {
+    "Index": 905,
+    "Name": "Яйцо призыва лошади-скелета",
+    "Id": "skeleton_horse_spawn_egg",
+    "Icon": 866
+  },
+  {
+    "Index": 906,
+    "Name": "Яйцо призыва слизня",
+    "Id": "slime_spawn_egg",
+    "Icon": 867
+  },
+  {
+    "Index": 907,
+    "Name": "Яйцо призыва паука",
+    "Id": "spider_spawn_egg",
+    "Icon": 868
+  },
+  {
+    "Index": 908,
+    "Name": "Яйцо призыва спрута",
+    "Id": "squid_spawn_egg",
+    "Icon": 869
+  },
+  {
+    "Index": 909,
+    "Name": "Яйцо призыва зимогора",
+    "Id": "stray_spawn_egg",
+    "Icon": 870
+  },
+  {
+    "Index": 910,
+    "Name": "Яйцо призыва лавомерки",
+    "Id": "strider_spawn_egg",
+    "Icon": 871
+  },
+  {
+    "Index": 911,
+    "Name": "Яйцо призыва ламы торговца",
+    "Id": "trader_llama_spawn_egg",
+    "Icon": 872
+  },
+  {
+    "Index": 912,
+    "Name": "Яйцо призыва тропической рыбы",
+    "Id": "tropical_fish_spawn_egg",
+    "Icon": 873
+  },
+  {
+    "Index": 913,
+    "Name": "Яйцо призыва черепахи",
+    "Id": "turtle_spawn_egg",
+    "Icon": 874
+  },
+  {
+    "Index": 914,
+    "Name": "Яйцо призыва вредины",
+    "Id": "vex_spawn_egg",
+    "Icon": 875
+  },
+  {
+    "Index": 915,
+    "Name": "Яйцо призыва крестьянина",
+    "Id": "villager_spawn_egg",
+    "Icon": 876
+  },
+  {
+    "Index": 916,
+    "Name": "Яйцо призыва поборника",
+    "Id": "vindicator_spawn_egg",
+    "Icon": 877
+  },
+  {
+    "Index": 917,
+    "Name": "Яйцо призыва странствующего торговца",
+    "Id": "wandering_trader_spawn_egg",
+    "Icon": 878
+  },
+  {
+    "Index": 918,
+    "Name": "Яйцо призыва ведьмы",
+    "Id": "witch_spawn_egg",
+    "Icon": 879
+  },
+  {
+    "Index": 919,
+    "Name": "Яйцо призыва визер-скелета",
+    "Id": "wither_skeleton_spawn_egg",
+    "Icon": 880
+  },
+  {
+    "Index": 920,
+    "Name": "Яйцо призыва волка",
+    "Id": "wolf_spawn_egg",
+    "Icon": 881
+  },
+  {
+    "Index": 921,
+    "Name": "Яйцо призыва зоглина",
+    "Id": "zoglin_spawn_egg",
+    "Icon": 882
+  },
+  {
+    "Index": 922,
+    "Name": "Яйцо призыва зомби",
+    "Id": "zombie_spawn_egg",
+    "Icon": 883
+  },
+  {
+    "Index": 923,
+    "Name": "Яйцо призыва лошади-зомби",
+    "Id": "zombie_horse_spawn_egg",
+    "Icon": 884
+  },
+  {
+    "Index": 924,
+    "Name": "Яйцо призыва зомби-крестьянина",
+    "Id": "zombie_villager_spawn_egg",
+    "Icon": 885
+  },
+  {
+    "Index": 925,
+    "Name": "Яйцо призыва зомбифицированного пиглина",
+    "Id": "zombified_piglin_spawn_egg",
+    "Icon": 886
+  },
+  {
+    "Index": 926,
+    "Name": "Пузырёк опыта",
+    "Id": "experience_bottle",
+    "Icon": 887
+  },
+  {
+    "Index": 927,
+    "Name": "Огненный заряд",
+    "Id": "fire_charge",
+    "Icon": 888
+  },
+  {
+    "Index": 928,
+    "Name": "Книга и перо",
+    "Id": "writable_book",
+    "Icon": 889
+  },
+  {
+    "Index": 929,
+    "Name": "Рамка",
+    "Id": "item_frame",
+    "Icon": 891
+  },
+  {
+    "Index": 930,
+    "Name": "Светящаяся рамка",
+    "Id": "glow_item_frame",
+    "Icon": 892
+  },
+  {
+    "Index": 931,
+    "Name": "Цветочный горшок",
+    "Id": "flower_pot",
+    "Icon": 893
+  },
+  {
+    "Index": 932,
+    "Name": "Морковь",
+    "Id": "carrot",
+    "Icon": 894
+  },
+  {
+    "Index": 933,
+    "Name": "Картофель",
+    "Id": "potato",
+    "Icon": 895
+  },
+  {
+    "Index": 934,
+    "Name": "Печёный картофель",
+    "Id": "baked_potato",
+    "Icon": 896
+  },
+  {
+    "Index": 935,
+    "Name": "Ядовитый картофель",
+    "Id": "poisonous_potato",
+    "Icon": 897
+  },
+  {
+    "Index": 936,
+    "Name": "Чистая карта",
+    "Id": "map",
+    "Icon": 898
+  },
+  {
+    "Index": 937,
+    "Name": "Золотая морковь",
+    "Id": "golden_carrot",
+    "Icon": 899
+  },
+  {
+    "Index": 938,
+    "Name": "Череп",
+    "Id": "skeleton_skull",
+    "Icon": 900
+  },
+  {
+    "Index": 939,
+    "Name": "Череп визер-скелета",
+    "Id": "wither_skeleton_skull",
+    "Icon": 901
+  },
+  {
+    "Index": 940,
+    "Name": "Голова игрока",
+    "Id": "player_head",
+    "Icon": 902
+  },
+  {
+    "Index": 941,
+    "Name": "Голова зомби",
+    "Id": "zombie_head",
+    "Icon": 903
+  },
+  {
+    "Index": 942,
+    "Name": "Голова крипера",
+    "Id": "creeper_head",
+    "Icon": 904
+  },
+  {
+    "Index": 943,
+    "Name": "Голова дракона",
+    "Id": "dragon_head",
+    "Icon": 905
+  },
+  {
+    "Index": 944,
+    "Name": "Звезда Незера",
+    "Id": "nether_star",
+    "Icon": 908
+  },
+  {
+    "Index": 945,
+    "Name": "Тыквенный пирог",
+    "Id": "pumpkin_pie",
+    "Icon": 909
+  },
+  {
+    "Index": 946,
+    "Name": "Фейерверк",
+    "Id": "firework_rocket",
+    "Icon": 910
+  },
+  {
+    "Index": 947,
+    "Name": "Пиротехническая звезда",
+    "Id": "firework_star",
+    "Icon": 911
+  },
+  {
+    "Index": 948,
+    "Name": "Чародейская книга",
+    "Id": "enchanted_book",
+    "Icon": 912
+  },
+  {
+    "Index": 949,
+    "Name": "Незерский кирпич",
+    "Id": "nether_brick",
+    "Icon": 914
+  },
+  {
+    "Index": 950,
+    "Name": "Осколок призмарина",
+    "Id": "prismarine_shard",
+    "Icon": 918
+  },
+  {
+    "Index": 951,
+    "Name": "Кристалл призмарина",
+    "Id": "prismarine_crystals",
+    "Icon": 919
+  },
+  {
+    "Index": 952,
+    "Name": "Сырая крольчатина",
+    "Id": "rabbit",
+    "Icon": 920
+  },
+  {
+    "Index": 953,
+    "Name": "Жареная крольчатина",
+    "Id": "cooked_rabbit",
+    "Icon": 921
+  },
+  {
+    "Index": 954,
+    "Name": "Тушёный кролик",
+    "Id": "rabbit_stew",
+    "Icon": 922
+  },
+  {
+    "Index": 955,
+    "Name": "Кроличья лапка",
+    "Id": "rabbit_foot",
+    "Icon": 923
+  },
+  {
+    "Index": 956,
+    "Name": "Кроличья шкурка",
+    "Id": "rabbit_hide",
+    "Icon": 924
+  },
+  {
+    "Index": 957,
+    "Name": "Стойка для брони",
+    "Id": "armor_stand",
+    "Icon": 925
+  },
+  {
+    "Index": 958,
+    "Name": "Железная конская броня",
+    "Id": "iron_horse_armor",
+    "Icon": 926
+  },
+  {
+    "Index": 959,
+    "Name": "Золотая конская броня",
+    "Id": "golden_horse_armor",
+    "Icon": 927
+  },
+  {
+    "Index": 960,
+    "Name": "Алмазная конская броня",
+    "Id": "diamond_horse_armor",
+    "Icon": 928
+  },
+  {
+    "Index": 961,
+    "Name": "Кожаная конская броня",
+    "Id": "leather_horse_armor",
+    "Icon": 929
+  },
+  {
+    "Index": 962,
+    "Name": "Поводок",
+    "Id": "lead",
+    "Icon": 930
+  },
+  {
+    "Index": 963,
+    "Name": "Бирка",
+    "Id": "name_tag",
+    "Icon": 931
+  },
+  {
+    "Index": 964,
+    "Name": "Сырая баранина",
+    "Id": "mutton",
+    "Icon": 932
+  },
+  {
+    "Index": 965,
+    "Name": "Жареная баранина",
+    "Id": "cooked_mutton",
+    "Icon": 933
+  },
+  {
+    "Index": 966,
+    "Name": "Белый флаг",
+    "Id": "white_banner",
+    "Icon": 934
+  },
+  {
+    "Index": 967,
+    "Name": "Оранжевый флаг",
+    "Id": "orange_banner",
+    "Icon": 935
+  },
+  {
+    "Index": 968,
+    "Name": "Пурпурный флаг",
+    "Id": "magenta_banner",
+    "Icon": 936
+  },
+  {
+    "Index": 969,
+    "Name": "Голубой флаг",
+    "Id": "light_blue_banner",
+    "Icon": 937
+  },
+  {
+    "Index": 970,
+    "Name": "Желтый флаг",
+    "Id": "yellow_banner",
+    "Icon": 938
+  },
+  {
+    "Index": 971,
+    "Name": "Лаймовый флаг",
+    "Id": "lime_banner",
+    "Icon": 939
+  },
+  {
+    "Index": 972,
+    "Name": "Розовый флаг",
+    "Id": "pink_banner",
+    "Icon": 940
+  },
+  {
+    "Index": 973,
+    "Name": "Серый флаг",
+    "Id": "gray_banner",
+    "Icon": 941
+  },
+  {
+    "Index": 974,
+    "Name": "Светло-серый флаг",
+    "Id": "light_gray_banner",
+    "Icon": 942
+  },
+  {
+    "Index": 975,
+    "Name": "Бирюзовый флаг",
+    "Id": "cyan_banner",
+    "Icon": 943
+  },
+  {
+    "Index": 976,
+    "Name": "Фиолетовый флаг",
+    "Id": "purple_banner",
+    "Icon": 944
+  },
+  {
+    "Index": 977,
+    "Name": "Синий флаг",
+    "Id": "blue_banner",
+    "Icon": 945
+  },
+  {
+    "Index": 978,
+    "Name": "Коричневый флаг",
+    "Id": "brown_banner",
+    "Icon": 946
+  },
+  {
+    "Index": 979,
+    "Name": "Зеленый флаг",
+    "Id": "green_banner",
+    "Icon": 947
+  },
+  {
+    "Index": 980,
+    "Name": "Красный флаг",
+    "Id": "red_banner",
+    "Icon": 948
+  },
+  {
+    "Index": 981,
+    "Name": "Черный флаг",
+    "Id": "black_banner",
+    "Icon": 949
+  },
+  {
+    "Index": 982,
+    "Name": "Кристалл Энда",
+    "Id": "end_crystal",
+    "Icon": 950
+  },
+  {
+    "Index": 983,
+    "Name": "Плод хоруса",
+    "Id": "chorus_fruit",
+    "Icon": 951
+  },
+  {
+    "Index": 984,
+    "Name": "Прожаренный плод хоруса",
+    "Id": "popped_chorus_fruit",
+    "Icon": 952
+  },
+  {
+    "Index": 985,
+    "Name": "Свёкла",
+    "Id": "beetroot",
+    "Icon": 953
+  },
+  {
+    "Index": 986,
+    "Name": "Семена свёклы",
+    "Id": "beetroot_seeds",
+    "Icon": 954
+  },
+  {
+    "Index": 987,
+    "Name": "Свекольный суп",
+    "Id": "beetroot_soup",
+    "Icon": 955
+  },
+  {
+    "Index": 988,
+    "Name": "Драконье дыхание",
+    "Id": "dragon_breath",
+    "Icon": 956
+  },
+  {
+    "Index": 989,
+    "Name": "Щит",
+    "Id": "shield",
+    "Icon": 963
+  },
+  {
+    "Index": 990,
+    "Name": "Тотем бессмертия",
+    "Id": "totem_of_undying",
+    "Icon": 970
+  },
+  {
+    "Index": 991,
+    "Name": "Панцирь шалкера",
+    "Id": "shulker_shell",
+    "Icon": 971
+  },
+  {
+    "Index": 992,
+    "Name": "Кусочек железа",
+    "Id": "iron_nugget",
+    "Icon": 972
+  },
+  {
+    "Index": 993,
+    "Name": "Пластинка",
+    "Id": "music_disc_13",
+    "Icon": 973
+  },
+  {
+    "Index": 994,
+    "Name": "Пластинка",
+    "Id": "music_disc_cat",
+    "Icon": 974
+  },
+  {
+    "Index": 995,
+    "Name": "Пластинка",
+    "Id": "music_disc_blocks",
+    "Icon": 975
+  },
+  {
+    "Index": 996,
+    "Name": "Пластинка",
+    "Id": "music_disc_chirp",
+    "Icon": 976
+  },
+  {
+    "Index": 997,
+    "Name": "Пластинка",
+    "Id": "music_disc_far",
+    "Icon": 977
+  },
+  {
+    "Index": 998,
+    "Name": "Пластинка",
+    "Id": "music_disc_mall",
+    "Icon": 978
+  },
+  {
+    "Index": 999,
+    "Name": "Пластинка",
+    "Id": "music_disc_mellohi",
+    "Icon": 979
+  },
+  {
+    "Index": 1000,
+    "Name": "Пластинка",
+    "Id": "music_disc_stal",
+    "Icon": 980
+  },
+  {
+    "Index": 1001,
+    "Name": "Пластинка",
+    "Id": "music_disc_strad",
+    "Icon": 981
+  },
+  {
+    "Index": 1002,
+    "Name": "Пластинка",
+    "Id": "music_disc_ward",
+    "Icon": 982
+  },
+  {
+    "Index": 1003,
+    "Name": "Пластинка",
+    "Id": "music_disc_11",
+    "Icon": 983
+  },
+  {
+    "Index": 1004,
+    "Name": "Пластинка",
+    "Id": "music_disc_wait",
+    "Icon": 984
+  },
+  {
+    "Index": 1005,
+    "Name": "Пластинка",
+    "Id": "music_disc_pigstep",
+    "Icon": 985
+  },
+  {
+    "Index": 1006,
+    "Name": "Трезубец",
+    "Id": "trident",
+    "Icon": 986
+  },
+  {
+    "Index": 1007,
+    "Name": "Мембрана фантома",
+    "Id": "phantom_membrane",
+    "Icon": 987
+  },
+  {
+    "Index": 1008,
+    "Name": "Раковина наутилуса",
+    "Id": "nautilus_shell",
+    "Icon": 988
+  },
+  {
+    "Index": 1009,
+    "Name": "Сердце моря",
+    "Id": "heart_of_the_sea",
+    "Icon": 989
+  },
+  {
+    "Index": 1010,
+    "Name": "Арбалет",
+    "Id": "crossbow",
+    "Icon": 990
+  },
+  {
+    "Index": 1011,
+    "Name": "Ткацкий станок",
+    "Id": "loom",
+    "Icon": 991
+  },
+  {
+    "Index": 1012,
+    "Name": "Узор флага Цветок",
+    "Id": "flower_banner_pattern",
+    "Icon": 992
+  },
+  {
+    "Index": 1013,
+    "Name": "Узор флага Крипер",
+    "Id": "creeper_banner_pattern",
+    "Icon": 992
+  },
+  {
+    "Index": 1014,
+    "Name": "Узор флага Череп",
+    "Id": "skull_banner_pattern",
+    "Icon": 992
+  },
+  {
+    "Index": 1015,
+    "Name": "Узор флага Нечто",
+    "Id": "mojang_banner_pattern",
+    "Icon": 992
+  },
+  {
+    "Index": 1016,
+    "Name": "Узор флага Глобус",
+    "Id": "globe_banner_pattern",
+    "Icon": 992
+  },
+  {
+    "Index": 1017,
+    "Name": "Узор флага Рыло",
+    "Id": "piglin_banner_pattern",
+    "Icon": 992
+  },
+  {
+    "Index": 1018,
+    "Name": "Компостница",
+    "Id": "composter",
+    "Icon": 998
+  },
+  {
+    "Index": 1019,
+    "Name": "Бочка",
+    "Id": "barrel",
+    "Icon": 999
+  },
+  {
+    "Index": 1020,
+    "Name": "Коптильня",
+    "Id": "smoker",
+    "Icon": 1000
+  },
+  {
+    "Index": 1021,
+    "Name": "Плавильная печь",
+    "Id": "blast_furnace",
+    "Icon": 1001
+  },
+  {
+    "Index": 1022,
+    "Name": "Стол картографа",
+    "Id": "cartography_table",
+    "Icon": 1002
+  },
+  {
+    "Index": 1023,
+    "Name": "Стол лучника",
+    "Id": "fletching_table",
+    "Icon": 1003
+  },
+  {
+    "Index": 1024,
+    "Name": "Точило",
+    "Id": "grindstone",
+    "Icon": 1004
+  },
+  {
+    "Index": 1025,
+    "Name": "Стол кузнеца",
+    "Id": "smithing_table",
+    "Icon": 1005
+  },
+  {
+    "Index": 1026,
+    "Name": "Камнерез",
+    "Id": "stonecutter",
+    "Icon": 1006
+  },
+  {
+    "Index": 1027,
+    "Name": "Колокол",
+    "Id": "bell",
+    "Icon": 1007
+  },
+  {
+    "Index": 1028,
+    "Name": "Фонарь",
+    "Id": "lantern",
+    "Icon": 1008
+  },
+  {
+    "Index": 1029,
+    "Name": "Фонарь душ",
+    "Id": "soul_lantern",
+    "Icon": 1009
+  },
+  {
+    "Index": 1030,
+    "Name": "Сладкие ягоды",
+    "Id": "sweet_berries",
+    "Icon": 1010
+  },
+  {
+    "Index": 1031,
+    "Name": "Светящиеся ягоды",
+    "Id": "glow_berries",
+    "Icon": 1011
+  },
+  {
+    "Index": 1032,
+    "Name": "Костёр",
+    "Id": "campfire",
+    "Icon": 1012
+  },
+  {
+    "Index": 1033,
+    "Name": "Костёр душ",
+    "Id": "soul_campfire",
+    "Icon": 1013
+  },
+  {
+    "Index": 1034,
+    "Name": "Грибосвет",
+    "Id": "shroomlight",
+    "Icon": 1014
+  },
+  {
+    "Index": 1035,
+    "Name": "Пчелиные соты",
+    "Id": "honeycomb",
+    "Icon": 1015
+  },
+  {
+    "Index": 1036,
+    "Name": "Пчелиное гнездо",
+    "Id": "bee_nest",
+    "Icon": 1016
+  },
+  {
+    "Index": 1037,
+    "Name": "Улей",
+    "Id": "beehive",
+    "Icon": 1017
+  },
+  {
+    "Index": 1038,
+    "Name": "Бутылочка мёда",
+    "Id": "honey_bottle",
+    "Icon": 1018
+  },
+  {
+    "Index": 1039,
+    "Name": "Блок пчелиных сот",
+    "Id": "honeycomb_block",
+    "Icon": 1019
+  },
+  {
+    "Index": 1040,
+    "Name": "Магнетит",
+    "Id": "lodestone",
+    "Icon": 1020
+  },
+  {
+    "Index": 1041,
+    "Name": "Плачущий обсидиан",
+    "Id": "crying_obsidian",
+    "Icon": 1023
+  },
+  {
+    "Index": 1042,
+    "Name": "Чернит",
+    "Id": "blackstone",
+    "Icon": 1024
+  },
+  {
+    "Index": 1043,
+    "Name": "Чернитная плита",
+    "Id": "blackstone_slab",
+    "Icon": 1025
+  },
+  {
+    "Index": 1044,
+    "Name": "Чернитные ступеньки",
+    "Id": "blackstone_stairs",
+    "Icon": 1026
+  },
+  {
+    "Index": 1045,
+    "Name": "Золочёный чернит",
+    "Id": "gilded_blackstone",
+    "Icon": 1027
+  },
+  {
+    "Index": 1046,
+    "Name": "Полированный чернит",
+    "Id": "polished_blackstone",
+    "Icon": 1028
+  },
+  {
+    "Index": 1047,
+    "Name": "Плита из полированного чернита",
+    "Id": "polished_blackstone_slab",
+    "Icon": 1029
+  },
+  {
+    "Index": 1048,
+    "Name": "Ступеньки из полированного чернита",
+    "Id": "polished_blackstone_stairs",
+    "Icon": 1030
+  },
+  {
+    "Index": 1049,
+    "Name": "Резной полированный чернит",
+    "Id": "chiseled_polished_blackstone",
+    "Icon": 1031
+  },
+  {
+    "Index": 1050,
+    "Name": "Полированно-чернитные кирпичи",
+    "Id": "polished_blackstone_bricks",
+    "Icon": 1032
+  },
+  {
+    "Index": 1051,
+    "Name": "Плита из полированно-чернитного кирпича",
+    "Id": "polished_blackstone_brick_slab",
+    "Icon": 1033
+  },
+  {
+    "Index": 1052,
+    "Name": "Ступеньки из полированно-чернитного кирпича",
+    "Id": "polished_blackstone_brick_stairs",
+    "Icon": 1034
+  },
+  {
+    "Index": 1053,
+    "Name": "Потрескавшиеся полированно-чернитные кирпичи",
+    "Id": "cracked_polished_blackstone_bricks",
+    "Icon": 1035
+  },
+  {
+    "Index": 1054,
+    "Name": "Якорь возрождения",
+    "Id": "respawn_anchor",
+    "Icon": 1036
+  },
+  {
+    "Index": 1055,
+    "Name": "Свеча",
+    "Id": "candle",
+    "Icon": 1037
+  },
+  {
+    "Index": 1056,
+    "Name": "Белая свеча",
+    "Id": "white_candle",
+    "Icon": 1038
+  },
+  {
+    "Index": 1057,
+    "Name": "Оранжевая свеча",
+    "Id": "orange_candle",
+    "Icon": 1039
+  },
+  {
+    "Index": 1058,
+    "Name": "Пурпурная свеча",
+    "Id": "magenta_candle",
+    "Icon": 1040
+  },
+  {
+    "Index": 1059,
+    "Name": "Голубая свеча",
+    "Id": "light_blue_candle",
+    "Icon": 1041
+  },
+  {
+    "Index": 1060,
+    "Name": "Жёлтая свеча",
+    "Id": "yellow_candle",
+    "Icon": 1042
+  },
+  {
+    "Index": 1061,
+    "Name": "Лаймовая свеча",
+    "Id": "lime_candle",
+    "Icon": 1043
+  },
+  {
+    "Index": 1062,
+    "Name": "Розовая свеча",
+    "Id": "pink_candle",
+    "Icon": 1044
+  },
+  {
+    "Index": 1063,
+    "Name": "Серая свеча",
+    "Id": "gray_candle",
+    "Icon": 1045
+  },
+  {
+    "Index": 1064,
+    "Name": "Светло-серая свеча",
+    "Id": "light_gray_candle",
+    "Icon": 1046
+  },
+  {
+    "Index": 1065,
+    "Name": "Бирюзовая свеча",
+    "Id": "cyan_candle",
+    "Icon": 1047
+  },
+  {
+    "Index": 1066,
+    "Name": "Фиолетовая свеча",
+    "Id": "purple_candle",
+    "Icon": 1048
+  },
+  {
+    "Index": 1067,
+    "Name": "Синяя свеча",
+    "Id": "blue_candle",
+    "Icon": 1049
+  },
+  {
+    "Index": 1068,
+    "Name": "Коричневая свеча",
+    "Id": "brown_candle",
+    "Icon": 1050
+  },
+  {
+    "Index": 1069,
+    "Name": "Зелёная свеча",
+    "Id": "green_candle",
+    "Icon": 1051
+  },
+  {
+    "Index": 1070,
+    "Name": "Красная свеча",
+    "Id": "red_candle",
+    "Icon": 1052
+  },
+  {
+    "Index": 1071,
+    "Name": "Чёрная свеча",
+    "Id": "black_candle",
+    "Icon": 1053
+  },
+  {
+    "Index": 1072,
+    "Name": "Малый аметистовый бутон",
+    "Id": "small_amethyst_bud",
+    "Icon": 1057
+  },
+  {
+    "Index": 1073,
+    "Name": "Средний аметистовый бутон",
+    "Id": "medium_amethyst_bud",
+    "Icon": 1058
+  },
+  {
+    "Index": 1074,
+    "Name": "Большой аметистовый бутон",
+    "Id": "large_amethyst_bud",
+    "Icon": 1059
+  },
+  {
+    "Index": 1075,
+    "Name": "Аметистовая друза",
+    "Id": "amethyst_cluster",
+    "Icon": 1060
+  },
+  {
+    "Index": 1076,
+    "Name": "Капельник",
+    "Id": "pointed_dripstone",
+    "Icon": 1095
+  },
+  {
+    "Index": 1077,
+    "Name": "Скалк-сенсор",
+    "Id": "sculk_sensor",
+    "Icon": 558
+  },
+  {
+    "Index": 1078,
+    "Name": "Мешок",
+    "Id": "bundle",
+    "Icon": 730
+  },
+  {
+    "Index": 1079,
+    "Name": "Яйцо дракона",
+    "Id": "dragon_egg",
+    "Icon": 797
+  },
+  {
+    "Index": 1080,
+    "Name": "Загадочное рагу",
+    "Id": "suspicious_stew",
+    "Icon": 798
+  },
+  {
+    "Index": 1081,
+    "Name": "Рассадник (Спаунер)",
+    "Id": "spawner",
+    "Icon": 799
+  },
+  {
+    "Index": 1082,
+    "Name": "Командный блок",
+    "Id": "command_block",
+    "Icon": 800
+  },
+  {
+    "Index": 1083,
+    "Name": "Последовательный командный блок",
+    "Id": "chain_command_block",
+    "Icon": 801
+  },
+  {
+    "Index": 1084,
+    "Name": "Повторяющий командный блок",
+    "Id": "repeating_command_block",
+    "Icon": 802
+  },
+  {
+    "Index": 1085,
+    "Name": "Вагонетка с командным блоком",
+    "Id": "command_block_minecart",
+    "Icon": 803
+  },
+  {
+    "Index": 1086,
+    "Name": "Блок-конструктор",
+    "Id": "structure_block",
+    "Icon": 804
+  },
+  {
+    "Index": 1087,
+    "Name": "Пустой блок",
+    "Id": "structure_void",
+    "Icon": 805
+  },
+  {
+    "Index": 1088,
+    "Name": "Барьер",
+    "Id": "barrier",
+    "Icon": 806
+  },
+  {
+    "Index": 1089,
+    "Name": "Палочка отладки",
+    "Id": "debug_stick",
+    "Icon": 807
+  },
+  {
+    "Index": 1090,
+    "Name": "Воздух",
+    "Id": "air",
+    "Icon": 808
+  },
+  {
+    "Index": 1091,
+    "Name": "Бутылочка воды",
+    "Id": "potion_water",
+    "Icon": 1098
+  },
+  {
+    "Index": 1092,
+    "Name": "Заурядное зелье",
+    "Id": "potion_mundane",
+    "Icon": 1098
+  },
+  {
+    "Index": 1093,
+    "Name": "Густое зелье",
+    "Id": "potion_thick",
+    "Icon": 1098
+  },
+  {
+    "Index": 1094,
+    "Name": "Мутное зелье",
+    "Id": "potion_awkward",
+    "Icon": 1098
+  },
+  {
+    "Index": 1095,
+    "Name": "Зелье Ночного зрения 3:00",
+    "Id": "potion_night_vision",
+    "Icon": 1099
+  },
+  {
+    "Index": 1096,
+    "Name": "Зелье Ночного зрения Продлённое 8:00",
+    "Id": "potion_long_night_vision",
+    "Icon": 1099
+  },
+  {
+    "Index": 1097,
+    "Name": "Зелье Невидимости 3:00",
+    "Id": "potion_invisibility",
+    "Icon": 1100
+  },
+  {
+    "Index": 1098,
+    "Name": "Зелье Невидимости Продлённое 8:00",
+    "Id": "potion_long_invisibility",
+    "Icon": 1100
+  },
+  {
+    "Index": 1099,
+    "Name": "Зелье Прыгучести",
+    "Id": "potion_leaping",
+    "Icon": 1101
+  },
+  {
+    "Index": 1100,
+    "Name": "Зелье Прыгучести Продлённое 8:00",
+    "Id": "potion_long_leaping",
+    "Icon": 1101
+  },
+  {
+    "Index": 1101,
+    "Name": "Зелье Прыгучести Усиленное 1:30",
+    "Id": "potion_strong_leaping",
+    "Icon": 1101
+  },
+  {
+    "Index": 1102,
+    "Name": "Зелье Огнестойкости",
+    "Id": "potion_fire_resistance",
+    "Icon": 1102
+  },
+  {
+    "Index": 1103,
+    "Name": "Зелье Огнестойкости Продлённое 8:00",
+    "Id": "potion_long_fire_resistance",
+    "Icon": 1102
+  },
+  {
+    "Index": 1104,
+    "Name": "Зелье Стремительности",
+    "Id": "potion_swiftness",
+    "Icon": 1103
+  },
+  {
+    "Index": 1105,
+    "Name": "Зелье Стремительности Продлённое 8:00",
+    "Id": "potion_long_swiftness",
+    "Icon": 1103
+  },
+  {
+    "Index": 1106,
+    "Name": "Зелье Стремительности Усиленное 1:30",
+    "Id": "potion_strong_swiftness",
+    "Icon": 1103
+  },
+  {
+    "Index": 1107,
+    "Name": "Зелье Замедления",
+    "Id": "potion_slowness",
+    "Icon": 1104
+  },
+  {
+    "Index": 1108,
+    "Name": "Зелье Замедления Продлённое 4:00",
+    "Id": "potion_long_slowness",
+    "Icon": 1104
+  },
+  {
+    "Index": 1109,
+    "Name": "Зелье Замедления Усиленное 0:20",
+    "Id": "potion_strong_slowness",
+    "Icon": 1104
+  },
+  {
+    "Index": 1110,
+    "Name": "Зелье Черепашьей мощи",
+    "Id": "potion_turtle_master",
+    "Icon": 1105
+  },
+  {
+    "Index": 1111,
+    "Name": "Зелье Черепашьей мощи Продлённое 0:40",
+    "Id": "potion_long_turtle_master",
+    "Icon": 1105
+  },
+  {
+    "Index": 1112,
+    "Name": "Зелье Черепашьей мощи Усиленное 0:20",
+    "Id": "potion_strong_turtle_master",
+    "Icon": 1105
+  },
+  {
+    "Index": 1113,
+    "Name": "Зелье Водного дыхания",
+    "Id": "potion_water_breathing",
+    "Icon": 1106
+  },
+  {
+    "Index": 1114,
+    "Name": "Зелье Водного дыхания Продлённое 8:00",
+    "Id": "potion_long_water_breathing",
+    "Icon": 1106
+  },
+  {
+    "Index": 1115,
+    "Name": "Зелье Исцеления",
+    "Id": "potion_healing",
+    "Icon": 1107
+  },
+  {
+    "Index": 1116,
+    "Name": "Зелье Исцеления Усиленное",
+    "Id": "potion_strong_healing",
+    "Icon": 1107
+  },
+  {
+    "Index": 1117,
+    "Name": "Зелье Вреда",
+    "Id": "potion_harming",
+    "Icon": 1108
+  },
+  {
+    "Index": 1118,
+    "Name": "Зелье Вреда Усиленное",
+    "Id": "potion_strong_harming",
+    "Icon": 1108
+  },
+  {
+    "Index": 1119,
+    "Name": "Зелье Отравления",
+    "Id": "potion_poison",
+    "Icon": 1109
+  },
+  {
+    "Index": 1120,
+    "Name": "Зелье Отравления Продлённое 1:30",
+    "Id": "potion_long_poison",
+    "Icon": 1109
+  },
+  {
+    "Index": 1121,
+    "Name": "Зелье Отравления Усиленное 0:21",
+    "Id": "potion_strong_poison",
+    "Icon": 1109
+  },
+  {
+    "Index": 1122,
+    "Name": "Зелье Регенерации",
+    "Id": "potion_regeneration",
+    "Icon": 1100
+  },
+  {
+    "Index": 1123,
+    "Name": "Зелье Регенерации Продлённое 1:30",
+    "Id": "potion_long_regeneration",
+    "Icon": 1100
+  },
+  {
+    "Index": 1124,
+    "Name": "Зелье Регенерации Усиленное 0:22",
+    "Id": "potion_strong_regeneration",
+    "Icon": 1100
+  },
+  {
+    "Index": 1125,
+    "Name": "Зелье Силы",
+    "Id": "potion_strength",
+    "Icon": 1111
+  },
+  {
+    "Index": 1126,
+    "Name": "Зелье Силы Продлённое 8:00",
+    "Id": "potion_long_strength",
+    "Icon": 1111
+  },
+  {
+    "Index": 1127,
+    "Name": "Зелье Силы Усиленное 1:30",
+    "Id": "potion_strong_strength",
+    "Icon": 1111
+  },
+  {
+    "Index": 1128,
+    "Name": "Зелье Слабости 1:30",
+    "Id": "potion_weakness",
+    "Icon": 1112
+  },
+  {
+    "Index": 1129,
+    "Name": "Зелье Слабости Продлённое 4:00",
+    "Id": "potion_long_weakness",
+    "Icon": 1112
+  },
+  {
+    "Index": 1130,
+    "Name": "Зелье Везения",
+    "Id": "potion_luck",
+    "Icon": 1113
+  },
+  {
+    "Index": 1131,
+    "Name": "Зелье Плавного падения 1:30",
+    "Id": "potion_slow_falling",
+    "Icon": 1114
+  },
+  {
+    "Index": 1132,
+    "Name": "Зелье Плавного падения Продлённое 4:00",
+    "Id": "potion_long_slow_falling",
+    "Icon": 1114
+  },
+  {
+    "Index": 1133,
+    "Name": "Взрывная бутылочка воды",
+    "Id": "splash_potion_water",
+    "Icon": 1116
+  },
+  {
+    "Index": 1134,
+    "Name": "Заурядное взрывное зель",
+    "Id": "splash_potion_mundane",
+    "Icon": 1116
+  },
+  {
+    "Index": 1135,
+    "Name": "Густое взрывное зелье",
+    "Id": "splash_potion_thick",
+    "Icon": 1116
+  },
+  {
+    "Index": 1136,
+    "Name": "Взрывное мутное зелье",
+    "Id": "splash_potion_awkward",
+    "Icon": 1116
+  },
+  {
+    "Index": 1137,
+    "Name": "Взрывное зелье Ночного зрения 3:00",
+    "Id": "splash_potion_night_vision",
+    "Icon": 1117
+  },
+  {
+    "Index": 1138,
+    "Name": "Взрывное зелье Ночного зрения Продлённое 8:00",
+    "Id": "splash_potion_long_night_vision",
+    "Icon": 1117
+  },
+  {
+    "Index": 1139,
+    "Name": "Взрывное зелье Невидимости 3:00",
+    "Id": "splash_potion_invisibility",
+    "Icon": 1118
+  },
+  {
+    "Index": 1140,
+    "Name": "Взрывное зелье Невидимости Продлённое 8:00",
+    "Id": "splash_potion_long_invisibility",
+    "Icon": 1118
+  },
+  {
+    "Index": 1141,
+    "Name": "Взрывное зелье Прыгучести 3:00",
+    "Id": "splash_potion_leaping",
+    "Icon": 1119
+  },
+  {
+    "Index": 1142,
+    "Name": "Взрывное зелье Прыгучести Продлённое 8:00",
+    "Id": "splash_potion_long_leaping",
+    "Icon": 1119
+  },
+  {
+    "Index": 1143,
+    "Name": "Взрывное зелье Прыгучести Усиленное 1:30",
+    "Id": "splash_potion_strong_leaping",
+    "Icon": 1119
+  },
+  {
+    "Index": 1144,
+    "Name": "Взрывное зелье Огнестойкости 3:00",
+    "Id": "splash_potion_fire_resistance",
+    "Icon": 1120
+  },
+  {
+    "Index": 1145,
+    "Name": "Взрывное зелье Огнестойкости Продлённое 8:00",
+    "Id": "splash_potion_long_fire_resistance",
+    "Icon": 1120
+  },
+  {
+    "Index": 1146,
+    "Name": "Взрывное зелье Стремительности 3:00",
+    "Id": "splash_potion_swiftness",
+    "Icon": 1121
+  },
+  {
+    "Index": 1147,
+    "Name": "Взрывное зелье Стремительности Продлённое 8:00",
+    "Id": "splash_potion_long_swiftness",
+    "Icon": 1121
+  },
+  {
+    "Index": 1148,
+    "Name": "Взрывное зелье Стремительности Усиленное 1:30",
+    "Id": "splash_potion_strong_swiftness",
+    "Icon": 1121
+  },
+  {
+    "Index": 1149,
+    "Name": "Взрывное зелье Замедления 1:30",
+    "Id": "splash_potion_slowness",
+    "Icon": 1122
+  },
+  {
+    "Index": 1150,
+    "Name": "Взрывное зелье Замедления Продлённое 4:00",
+    "Id": "splash_potion_long_slowness",
+    "Icon": 1122
+  },
+  {
+    "Index": 1151,
+    "Name": "Взрывное зелье Замедления Усиленное 0:20",
+    "Id": "splash_potion_strong_slowness",
+    "Icon": 1122
+  },
+  {
+    "Index": 1152,
+    "Name": "Взрывное зелье Черепашьей мощи 0:20",
+    "Id": "splash_potion_turtle_master",
+    "Icon": 1123
+  },
+  {
+    "Index": 1153,
+    "Name": "Взрывное зелье Черепашьей мощи Продлённое 0:40",
+    "Id": "splash_potion_long_turtle_master",
+    "Icon": 1123
+  },
+  {
+    "Index": 1154,
+    "Name": "Взрывное зелье Черепашьей мощи Усиленное 0:20",
+    "Id": "splash_potion_strong_turtle_master",
+    "Icon": 1123
+  },
+  {
+    "Index": 1155,
+    "Name": "Взрывное зелье Водного дыхания 3:00",
+    "Id": "splash_potion_water_breathing",
+    "Icon": 1124
+  },
+  {
+    "Index": 1156,
+    "Name": "Взрывное зелье Водного дыхания Продлённое 8:00",
+    "Id": "splash_potion_long_water_breathing",
+    "Icon": 1124
+  },
+  {
+    "Index": 1157,
+    "Name": "Взрывное зелье Исцеления Исцеление",
+    "Id": "splash_potion_healing",
+    "Icon": 1125
+  },
+  {
+    "Index": 1158,
+    "Name": "Взрывное зелье Исцеления Усиленное",
+    "Id": "splash_potion_strong_healing",
+    "Icon": 1125
+  },
+  {
+    "Index": 1159,
+    "Name": "Взрывное зелье Вреда",
+    "Id": "splash_potion_harming",
+    "Icon": 1126
+  },
+  {
+    "Index": 1160,
+    "Name": "Взрывное зелье Вреда Усиленное",
+    "Id": "splash_potion_strong_harming",
+    "Icon": 1126
+  },
+  {
+    "Index": 1161,
+    "Name": "Взрывное зелье Отравления 0:45",
+    "Id": "splash_potion_poison",
+    "Icon": 1127
+  },
+  {
+    "Index": 1162,
+    "Name": "Взрывное зелье Отравления Продлённое 1:30",
+    "Id": "splash_potion_long_poison",
+    "Icon": 1127
+  },
+  {
+    "Index": 1163,
+    "Name": "Взрывное зелье Отравления Усиленное 0:21",
+    "Id": "splash_potion_strong_poison",
+    "Icon": 1127
+  },
+  {
+    "Index": 1164,
+    "Name": "Взрывное зелье Регенерации 0:45",
+    "Id": "splash_potion_regeneration",
+    "Icon": 1128
+  },
+  {
+    "Index": 1165,
+    "Name": "Взрывное зелье Регенерации Продлённое 1:30",
+    "Id": "splash_potion_long_regeneration",
+    "Icon": 1128
+  },
+  {
+    "Index": 1166,
+    "Name": "Взрывное зелье Регенерации Усиленное0:22",
+    "Id": "splash_potion_strong_regeneration",
+    "Icon": 1128
+  },
+  {
+    "Index": 1167,
+    "Name": "Взрывное зелье Силы 3:00",
+    "Id": "splash_potion_strength",
+    "Icon": 1129
+  },
+  {
+    "Index": 1168,
+    "Name": "Взрывное зелье Силы Продлённое 8:00",
+    "Id": "splash_potion_long_strength",
+    "Icon": 1129
+  },
+  {
+    "Index": 1169,
+    "Name": "Взрывное зелье Силы Усиленное 1:30",
+    "Id": "splash_potion_strong_strength",
+    "Icon": 1129
+  },
+  {
+    "Index": 1170,
+    "Name": "Взрывное зелье Слабости 1:30",
+    "Id": "splash_potion_weakness",
+    "Icon": 1130
+  },
+  {
+    "Index": 1171,
+    "Name": "Взрывное зелье Слабости Продлённое 4:00",
+    "Id": "splash_potion_long_weakness",
+    "Icon": 1130
+  },
+  {
+    "Index": 1172,
+    "Name": "Взрывное зелье Везения",
+    "Id": "splash_potion_luck",
+    "Icon": 1131
+  },
+  {
+    "Index": 1173,
+    "Name": "Взрывное зелье Плавного падения 1:30",
+    "Id": "splash_potion_slow_falling",
+    "Icon": 1132
+  },
+  {
+    "Index": 1174,
+    "Name": "Взрывное зелье Плавного падения Продлённое 4:00",
+    "Id": "splash_potion_long_slow_falling",
+    "Icon": 1132
+  },
+  {
+    "Index": 1175,
+    "Name": "Бутылочка с водяной взвесью",
+    "Id": "lingering_potion_water",
+    "Icon": 1134
+  },
+  {
+    "Index": 1176,
+    "Name": "Заурядное туманное зелье",
+    "Id": "lingering_potion_mundane",
+    "Icon": 1134
+  },
+  {
+    "Index": 1177,
+    "Name": "Густое туманное зелье",
+    "Id": "lingering_potion_thick",
+    "Icon": 1134
+  },
+  {
+    "Index": 1178,
+    "Name": "Мутное туманное зелье",
+    "Id": "lingering_potion_awkward",
+    "Icon": 1134
+  },
+  {
+    "Index": 1179,
+    "Name": "Туманное Зелье Ночного зрения 0:45",
+    "Id": "lingering_potion_night_vision",
+    "Icon": 1135
+  },
+  {
+    "Index": 1180,
+    "Name": "Туманное Зелье Ночного зрения Продлённое 2:00",
+    "Id": "lingering_potion_long_night_vision",
+    "Icon": 1135
+  },
+  {
+    "Index": 1181,
+    "Name": "Туманное Зелье Невидимости 0:45",
+    "Id": "lingering_potion_invisibility",
+    "Icon": 1136
+  },
+  {
+    "Index": 1182,
+    "Name": "Туманное Зелье Невидимости Продлённое 2:00",
+    "Id": "lingering_potion_long_invisibility",
+    "Icon": 1136
+  },
+  {
+    "Index": 1183,
+    "Name": "Туманное Зелье Прыгучести 0:45",
+    "Id": "lingering_potion_leaping",
+    "Icon": 1137
+  },
+  {
+    "Index": 1184,
+    "Name": "Туманное Зелье Прыгучести Продлённое 2:00",
+    "Id": "lingering_potion_long_leaping",
+    "Icon": 1137
+  },
+  {
+    "Index": 1185,
+    "Name": "Туманное Зелье Прыгучести Усиленное 0:22",
+    "Id": "lingering_potion_strong_leaping",
+    "Icon": 1137
+  },
+  {
+    "Index": 1186,
+    "Name": "Туманное Зелье Огнестойкости 0:45",
+    "Id": "lingering_potion_fire_resistance",
+    "Icon": 1138
+  },
+  {
+    "Index": 1187,
+    "Name": "Туманное Зелье Огнестойкости Продлённое 2:00",
+    "Id": "lingering_potion_long_fire_resistance",
+    "Icon": 1138
+  },
+  {
+    "Index": 1188,
+    "Name": "Туманное Зелье Стремительности Скорость I, 0:45",
+    "Id": "lingering_potion_swiftness",
+    "Icon": 1139
+  },
+  {
+    "Index": 1189,
+    "Name": "Туманное Зелье Стремительности Продлённое 2:00",
+    "Id": "lingering_potion_long_swiftness",
+    "Icon": 1139
+  },
+  {
+    "Index": 1190,
+    "Name": "Туманное Зелье Стремительности Усиленное 0:22",
+    "Id": "lingering_potion_strong_swiftness",
+    "Icon": 1139
+  },
+  {
+    "Index": 1191,
+    "Name": "Туманное Зелье Замедления 0:22",
+    "Id": "lingering_potion_slowness",
+    "Icon": 1140
+  },
+  {
+    "Index": 1192,
+    "Name": "Туманное Зелье Замедления Продлённое 1:00",
+    "Id": "lingering_potion_long_slowness",
+    "Icon": 1140
+  },
+  {
+    "Index": 1193,
+    "Name": "Туманное Зелье Замедления Замедление Усиленное 0:05",
+    "Id": "lingering_potion_strong_slowness",
+    "Icon": 1140
+  },
+  {
+    "Index": 1194,
+    "Name": "Туманное Зелье Черепашьей мощи Замедление IV, Сопротивление III, 0:05",
+    "Id": "lingering_potion_turtle_master",
+    "Icon": 1141
+  },
+  {
+    "Index": 1195,
+    "Name": "Туманное Зелье Черепашьей мощи Продлённое 0:10",
+    "Id": "lingering_potion_long_turtle_master",
+    "Icon": 1141
+  },
+  {
+    "Index": 1196,
+    "Name": "Туманное Зелье Черепашьей мощи Усиленное 0:05",
+    "Id": "lingering_potion_strong_turtle_master",
+    "Icon": 1141
+  },
+  {
+    "Index": 1197,
+    "Name": "Туманное Зелье Водного дыхания 0:45",
+    "Id": "lingering_potion_water_breathing",
+    "Icon": 1142
+  },
+  {
+    "Index": 1198,
+    "Name": "Туманное Зелье Водного дыхания Продлённое 2:00",
+    "Id": "lingering_potion_long_water_breathing",
+    "Icon": 1142
+  },
+  {
+    "Index": 1199,
+    "Name": "Туманное Зелье Исцеления Исцеление",
+    "Id": "lingering_potion_healing",
+    "Icon": 1143
+  },
+  {
+    "Index": 1200,
+    "Name": "Туманное Зелье Исцеления Усиленное",
+    "Id": "lingerinpotion_strong_healing",
+    "Icon": 1143
+  },
+  {
+    "Index": 1201,
+    "Name": "Туманное Зелье Урона",
+    "Id": "lingering_potion_harming",
+    "Icon": 1144
+  },
+  {
+    "Index": 1202,
+    "Name": "Туманное Зелье Урона Усиленное",
+    "Id": "lingering_potion_strong_harming",
+    "Icon": 1144
+  },
+  {
+    "Index": 1203,
+    "Name": "Туманное Зелье Отравления 0:11",
+    "Id": "lingering_potion_poison",
+    "Icon": 1145
+  },
+  {
+    "Index": 1204,
+    "Name": "Туманное Зелье Отравления Продлённое 0:22",
+    "Id": "lingering_potion_long_poison",
+    "Icon": 1145
+  },
+  {
+    "Index": 1205,
+    "Name": "Туманное Зелье Отравления Усиленное 0:05",
+    "Id": "lingering_potion_strong_poison",
+    "Icon": 1145
+  },
+  {
+    "Index": 1206,
+    "Name": "Туманное Зелье Регенерации Регенерация I, 0:11",
+    "Id": "lingering_potion_regeneration",
+    "Icon": 1146
+  },
+  {
+    "Index": 1207,
+    "Name": "Туманное Зелье Регенерации Продлённое 0:22",
+    "Id": "lingering_potion_long_regeneration",
+    "Icon": 1146
+  },
+  {
+    "Index": 1208,
+    "Name": "Туманное Зелье Регенерации Усиленное 0:05",
+    "Id": "lingering_potion_strong_regeneration",
+    "Icon": 1146
+  },
+  {
+    "Index": 1209,
+    "Name": "Туманное Зелье Силы 0:45",
+    "Id": "lingering_potion_strength",
+    "Icon": 1147
+  },
+  {
+    "Index": 1210,
+    "Name": "Туманное Зелье Силы Продлённое 2:00",
+    "Id": "lingering_potion_long_strength",
+    "Icon": 1147
+  },
+  {
+    "Index": 1211,
+    "Name": "Туманное Зелье Силы Усиленное 0:22",
+    "Id": "lingering_potion_strong_strength",
+    "Icon": 1147
+  },
+  {
+    "Index": 1212,
+    "Name": "Туманное Зелье Слабости 0:22",
+    "Id": "lingering_potion_weakness",
+    "Icon": 1148
+  },
+  {
+    "Index": 1213,
+    "Name": "Туманное Зелье Слабости Продлённое 1:00",
+    "Id": "lingering_potion_long_weakness",
+    "Icon": 1148
+  },
+  {
+    "Index": 1214,
+    "Name": "Туманное Зелье Везения 1:15",
+    "Id": "lingering_potion_luck",
+    "Icon": 1149
+  },
+  {
+    "Index": 1215,
+    "Name": "Туманное Зелье Плавного падения 0:22",
+    "Id": "lingering_potion_slow_falling",
+    "Icon": 1150
+  },
+  {
+    "Index": 1216,
+    "Name": "Туманное Зелье Плавного падения Продлённое 1:00",
+    "Id": "lingering_potion_long_slow_falling",
+    "Icon": 1150
+  }
+]
